@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     A[Data Collection & Upload] --> B[Data Preprocessing Pipeline]
     
