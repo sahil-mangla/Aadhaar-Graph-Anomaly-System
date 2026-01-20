@@ -430,6 +430,52 @@ fig = px.bar(region_enrolment.nlargest(20, 'coverage_ratio'),
 fig.update_layout(height=500, xaxis_tickangle=-45, font=dict(size=14))
 fig.show()
 
+# Cell XX: Coverage Analysis - Bottom 15 Regions by Enrolment (Interactive)
+
+# Sort lowest enrolment regions
+bottom_15 = region_enrolment.nsmallest(15, 'enrolment_count')
+
+fig_bottom = px.bar(
+    bottom_15,
+    x=region_col,
+    y='enrolment_count',
+    title='Bottom 15 Regions by Aadhaar Enrolment',
+    labels={'enrolment_count': 'Total Enrolments', region_col: 'Region'},
+    color='enrolment_count',
+    color_continuous_scale='ice'
+)
+
+fig_bottom.update_layout(
+    xaxis_tickangle=45,
+    height=500,
+    font=dict(size=14)
+)
+
+fig_bottom.show()
+
+# Cell XX: Coverage Analysis - Top 15 States by Enrolment (Interactive)
+
+# Sort highest enrolment states
+top_15 = state_summary.nlargest(15, 'total_enrolment')
+
+fig_top = px.bar(
+    top_15,
+    x='state',
+    y='total_enrolment',
+    title='Top 15 States by Aadhaar Enrolment',
+    labels={'total_enrolment': 'Total Enrolments', 'state': 'State'},
+    color='total_enrolment',
+    color_continuous_scale='thermal'
+)
+
+fig_top.update_layout(
+    xaxis_tickangle=45,
+    height=500,
+    font=dict(size=14)
+)
+
+fig_top.show()
+
 # Cell 22: Interactive Dashboard - Location Anomaly Scatter
 fig = px.scatter(df, x='total_location_updates', y='unique_locations',
                  color='location_anomaly_flag',
@@ -500,6 +546,82 @@ else:
 
 print(f"\nTotal records processed: {len(df)}")
 print(f"Total columns in output: {len(output_cols)}")
+
+# Cell 24.5: Daily Enrollment Trend Analysis
+date_cols = [c for c in df.columns if 'date' in c.lower() or 'time' in c.lower() or 'enrol' in c.lower()]
+
+if len(date_cols) > 0:
+    date_col = date_cols[0]
+    try:
+        df[date_col] = pd.to_datetime(df[date_col], errors='coerce')
+        df_with_dates = df[df[date_col].notna()].copy()
+
+        if len(df_with_dates) > 0:
+            daily_enrolment = df_with_dates.groupby(df_with_dates[date_col].dt.date).size().reset_index()
+            daily_enrolment.columns = ['date', 'total_enrolment']
+            daily_enrolment['date'] = pd.to_datetime(daily_enrolment['date'])
+            daily_enrolment = daily_enrolment.sort_values('date')
+
+            fig_trend = px.line(
+                daily_enrolment,
+                x='date',
+                y='total_enrolment',
+                title='Daily Aadhaar Enrollment Trend',
+                labels={'total_enrolment': 'Daily Enrolments', 'date': 'Date'}
+            )
+
+            daily_enrolment['moving_avg'] = daily_enrolment['total_enrolment'].rolling(window=7).mean()
+
+            fig_trend.add_scatter(
+                x=daily_enrolment['date'],
+                y=daily_enrolment['moving_avg'],
+                mode='lines',
+                name='7-Day Moving Average',
+                line=dict(color='red', dash='dash')
+            )
+
+            fig_trend.update_layout(height=500, font=dict(size=14))
+            fig_trend.show()
+        else:
+            print("No valid dates found in dataset")
+    except Exception as e:
+        print(f"Could not parse dates: {e}")
+else:
+    print("No date column found. Creating simulated enrollment trend...")
+    np.random.seed(42)
+    start_date = datetime(2024, 1, 1)
+    dates = [start_date + timedelta(days=i) for i in range(365)]
+    base_enrolment = 1000
+    trend = np.linspace(0, 500, 365)
+    seasonality = 200 * np.sin(np.linspace(0, 4*np.pi, 365))
+    noise = np.random.normal(0, 100, 365)
+    enrolments = base_enrolment + trend + seasonality + noise
+
+    daily_enrolment = pd.DataFrame({
+        'date': dates,
+        'total_enrolment': enrolments.astype(int)
+    })
+
+    fig_trend = px.line(
+        daily_enrolment,
+        x='date',
+        y='total_enrolment',
+        title='Daily Aadhaar Enrollment Trend (Simulated)',
+        labels={'total_enrolment': 'Daily Enrolments', 'date': 'Date'}
+    )
+
+    daily_enrolment['moving_avg'] = daily_enrolment['total_enrolment'].rolling(window=7).mean()
+
+    fig_trend.add_scatter(
+        x=daily_enrolment['date'],
+        y=daily_enrolment['moving_avg'],
+        mode='lines',
+        name='7-Day Moving Average',
+        line=dict(color='red', dash='dash')
+    )
+
+    fig_trend.update_layout(height=500, font=dict(size=14))
+    fig_trend.show()
 
 # Cell 26: Download Files
 files.download('aadhaar_enriched_dataset.csv')
