@@ -1,0 +1,3734 @@
+source,target,edge_type
+A_27-11-2025,R_Karnataka,residence
+A_27-11-2025,B_45608,biometric
+A_27-11-2025,R_Tamil Nadu,residence
+A_27-11-2025,B_62284,biometric
+A_27-11-2025,R_Maharashtra,residence
+A_27-11-2025,B_16762,biometric
+A_27-11-2025,R_Assam,residence
+A_27-11-2025,B_38761,biometric
+A_27-11-2025,R_Gujarat,residence
+A_27-11-2025,B_42469,biometric
+A_27-11-2025,R_Andhra Pradesh,residence
+A_27-11-2025,B_72074,biometric
+A_27-11-2025,R_Haryana,residence
+A_27-11-2025,B_31789,biometric
+A_27-11-2025,R_Kerala,residence
+A_27-11-2025,B_73312,biometric
+A_27-11-2025,R_Bihar,residence
+A_27-11-2025,B_77719,biometric
+A_27-11-2025,R_Himachal Pradesh,residence
+A_27-11-2025,B_66139,biometric
+A_27-11-2025,R_Rajasthan,residence
+A_27-11-2025,B_69288,biometric
+A_27-11-2025,R_Madhya Pradesh,residence
+A_27-11-2025,B_49615,biometric
+A_27-11-2025,R_West Bengal,residence
+A_27-11-2025,B_95972,biometric
+A_27-11-2025,R_Uttarakhand,residence
+A_27-11-2025,B_73572,biometric
+A_27-11-2025,R_Manipur,residence
+A_27-11-2025,B_47218,biometric
+A_27-11-2025,R_Uttar Pradesh,residence
+A_27-11-2025,B_40191,biometric
+A_27-11-2025,R_Odisha,residence
+A_27-11-2025,B_9263,biometric
+A_27-11-2025,R_Chhattisgarh,residence
+A_27-11-2025,B_88167,biometric
+A_27-11-2025,R_Jharkhand,residence
+A_27-11-2025,B_17531,biometric
+A_27-11-2025,R_Jammu and Kashmir,residence
+A_27-11-2025,B_16211,biometric
+A_27-11-2025,R_Orissa,residence
+A_27-11-2025,B_8384,biometric
+A_27-11-2025,R_Punjab,residence
+A_27-11-2025,B_76080,biometric
+A_27-11-2025,R_Dadra and Nagar Haveli and Daman and Diu,residence
+A_27-11-2025,B_60177,biometric
+A_27-11-2025,R_Telangana,residence
+A_27-11-2025,B_21801,biometric
+R_Karnataka,A_13-09-2025,residence
+R_Karnataka,A_02-12-2025,residence
+R_Karnataka,A_04-12-2025,residence
+R_Karnataka,A_07-12-2025,residence
+R_Karnataka,A_24-10-2025,residence
+R_Karnataka,A_06-09-2025,residence
+R_Karnataka,A_25-10-2025,residence
+R_Karnataka,A_27-12-2025,residence
+R_Karnataka,A_13-12-2025,residence
+R_Karnataka,A_10-12-2025,residence
+R_Karnataka,A_06-12-2025,residence
+R_Karnataka,A_09-09-2025,residence
+R_Karnataka,A_26-12-2025,residence
+R_Karnataka,A_18-09-2025,residence
+R_Karnataka,A_01-09-2025,residence
+R_Karnataka,A_08-09-2025,residence
+R_Karnataka,A_10-11-2025,residence
+R_Karnataka,A_01-12-2025,residence
+R_Karnataka,A_22-12-2025,residence
+R_Karnataka,A_30-10-2025,residence
+R_Karnataka,A_17-09-2025,residence
+R_Karnataka,A_01-03-2025,residence
+R_Karnataka,A_04-11-2025,residence
+R_Karnataka,A_18-11-2025,residence
+R_Karnataka,A_27-10-2025,residence
+R_Karnataka,A_08-11-2025,residence
+R_Karnataka,A_08-12-2025,residence
+R_Karnataka,A_17-11-2025,residence
+R_Karnataka,A_05-12-2025,residence
+R_Karnataka,A_09-12-2025,residence
+R_Karnataka,A_12-11-2025,residence
+R_Karnataka,A_20-09-2025,residence
+R_Karnataka,A_23-12-2025,residence
+R_Karnataka,A_28-11-2025,residence
+R_Karnataka,A_12-12-2025,residence
+R_Karnataka,A_07-11-2025,residence
+R_Karnataka,A_20-10-2025,residence
+R_Karnataka,A_31-10-2025,residence
+R_Karnataka,A_10-09-2025,residence
+R_Karnataka,A_07-09-2025,residence
+R_Karnataka,A_26-10-2025,residence
+R_Karnataka,A_15-10-2025,residence
+R_Karnataka,A_11-12-2025,residence
+R_Karnataka,A_16-12-2025,residence
+R_Karnataka,A_21-12-2025,residence
+R_Karnataka,A_03-12-2025,residence
+R_Karnataka,A_19-11-2025,residence
+R_Karnataka,A_02-09-2025,residence
+R_Karnataka,A_12-09-2025,residence
+R_Karnataka,A_29-10-2025,residence
+R_Karnataka,A_15-11-2025,residence
+R_Karnataka,A_09-11-2025,residence
+R_Karnataka,A_26-11-2025,residence
+R_Karnataka,A_14-12-2025,residence
+R_Karnataka,A_20-12-2025,residence
+R_Karnataka,A_01-05-2025,residence
+R_Karnataka,A_14-11-2025,residence
+R_Karnataka,A_19-12-2025,residence
+R_Karnataka,A_25-11-2025,residence
+R_Karnataka,A_28-10-2025,residence
+R_Karnataka,A_17-10-2025,residence
+R_Karnataka,A_28-12-2025,residence
+R_Karnataka,A_01-11-2025,residence
+R_Karnataka,A_19-10-2025,residence
+R_Karnataka,A_03-09-2025,residence
+R_Karnataka,A_04-09-2025,residence
+R_Karnataka,A_21-10-2025,residence
+R_Karnataka,A_06-11-2025,residence
+R_Karnataka,A_13-11-2025,residence
+R_Karnataka,A_01-04-2025,residence
+R_Karnataka,A_11-11-2025,residence
+R_Karnataka,A_03-11-2025,residence
+R_Karnataka,A_15-12-2025,residence
+R_Karnataka,A_15-09-2025,residence
+R_Karnataka,A_05-09-2025,residence
+R_Karnataka,A_14-09-2025,residence
+R_Karnataka,A_18-12-2025,residence
+R_Karnataka,A_23-10-2025,residence
+R_Karnataka,A_16-11-2025,residence
+A_10-09-2025,R_Odisha,residence
+A_10-09-2025,B_44416,biometric
+A_10-09-2025,R_West Bengal,residence
+A_10-09-2025,B_39181,biometric
+A_10-09-2025,R_Haryana,residence
+A_10-09-2025,B_16546,biometric
+A_10-09-2025,R_Uttar Pradesh,residence
+A_10-09-2025,B_76272,biometric
+A_10-09-2025,R_Maharashtra,residence
+A_10-09-2025,B_51915,biometric
+A_10-09-2025,R_Kerala,residence
+A_10-09-2025,B_43151,biometric
+A_10-09-2025,R_Bihar,residence
+A_10-09-2025,B_70616,biometric
+A_10-09-2025,R_Madhya Pradesh,residence
+A_10-09-2025,B_53666,biometric
+A_10-09-2025,B_10455,biometric
+A_10-09-2025,R_Jharkhand,residence
+A_10-09-2025,B_85750,biometric
+A_10-09-2025,R_Tamil Nadu,residence
+A_10-09-2025,B_59003,biometric
+A_10-09-2025,R_Telangana,residence
+A_10-09-2025,B_18520,biometric
+A_10-09-2025,R_Andhra Pradesh,residence
+A_10-09-2025,B_36921,biometric
+A_10-09-2025,R_Himachal Pradesh,residence
+A_10-09-2025,B_82196,biometric
+A_10-09-2025,R_Gujarat,residence
+A_10-09-2025,B_50959,biometric
+A_10-09-2025,R_Tripura,residence
+A_10-09-2025,B_64774,biometric
+A_10-09-2025,R_Chhattisgarh,residence
+A_10-09-2025,B_23320,biometric
+A_10-09-2025,R_Rajasthan,residence
+A_10-09-2025,B_79047,biometric
+A_10-09-2025,R_Punjab,residence
+A_10-09-2025,B_72255,biometric
+A_10-09-2025,R_Uttarakhand,residence
+A_10-09-2025,B_29709,biometric
+A_10-09-2025,R_Jammu and Kashmir,residence
+A_10-09-2025,B_87070,biometric
+A_10-09-2025,R_Delhi,residence
+A_10-09-2025,B_30359,biometric
+R_Odisha,A_01-12-2025,residence
+R_Odisha,A_03-12-2025,residence
+R_Odisha,A_11-12-2025,residence
+R_Odisha,A_31-10-2025,residence
+R_Odisha,A_14-12-2025,residence
+R_Odisha,A_17-09-2025,residence
+R_Odisha,A_21-12-2025,residence
+R_Odisha,A_16-12-2025,residence
+R_Odisha,A_08-11-2025,residence
+R_Odisha,A_19-10-2025,residence
+R_Odisha,A_06-12-2025,residence
+R_Odisha,A_02-11-2025,residence
+R_Odisha,A_09-09-2025,residence
+R_Odisha,A_28-12-2025,residence
+R_Odisha,A_18-11-2025,residence
+R_Odisha,A_26-11-2025,residence
+R_Odisha,A_12-12-2025,residence
+R_Odisha,A_07-11-2025,residence
+R_Odisha,A_29-12-2025,residence
+R_Odisha,A_13-09-2025,residence
+R_Odisha,A_22-12-2025,residence
+R_Odisha,A_27-12-2025,residence
+R_Odisha,A_12-11-2025,residence
+R_Odisha,A_04-12-2025,residence
+R_Odisha,A_19-12-2025,residence
+R_Odisha,A_06-09-2025,residence
+R_Odisha,A_18-09-2025,residence
+R_Odisha,A_09-12-2025,residence
+R_Odisha,A_16-09-2025,residence
+R_Odisha,A_05-12-2025,residence
+R_Odisha,A_15-10-2025,residence
+R_Odisha,A_01-03-2025,residence
+R_Odisha,A_29-10-2025,residence
+R_Odisha,A_11-11-2025,residence
+R_Odisha,A_03-11-2025,residence
+R_Odisha,A_17-11-2025,residence
+R_Odisha,A_30-10-2025,residence
+R_Odisha,A_13-10-2025,residence
+R_Odisha,A_26-12-2025,residence
+R_Odisha,A_28-11-2025,residence
+R_Odisha,A_03-09-2025,residence
+R_Odisha,A_01-11-2025,residence
+R_Odisha,A_15-09-2025,residence
+R_Odisha,A_21-10-2025,residence
+R_Odisha,A_23-10-2025,residence
+R_Odisha,A_20-10-2025,residence
+R_Odisha,A_08-09-2025,residence
+R_Odisha,A_12-09-2025,residence
+R_Odisha,A_02-12-2025,residence
+R_Odisha,A_28-10-2025,residence
+R_Odisha,A_07-12-2025,residence
+R_Odisha,A_27-10-2025,residence
+R_Odisha,A_10-12-2025,residence
+R_Odisha,A_25-10-2025,residence
+R_Odisha,A_19-09-2025,residence
+R_Odisha,A_23-12-2025,residence
+R_Odisha,A_01-09-2025,residence
+R_Odisha,A_04-11-2025,residence
+R_Odisha,A_06-11-2025,residence
+R_Odisha,A_14-09-2025,residence
+R_Odisha,A_10-11-2025,residence
+R_Odisha,A_16-10-2025,residence
+R_Odisha,A_05-11-2025,residence
+R_Odisha,A_16-11-2025,residence
+R_Odisha,A_11-09-2025,residence
+R_Odisha,A_08-12-2025,residence
+R_Odisha,A_09-11-2025,residence
+R_Odisha,A_17-10-2025,residence
+R_Odisha,A_15-12-2025,residence
+R_Odisha,A_05-09-2025,residence
+R_Odisha,A_18-12-2025,residence
+R_Odisha,A_20-12-2025,residence
+R_Odisha,A_07-09-2025,residence
+R_Odisha,A_19-11-2025,residence
+R_Odisha,A_13-12-2025,residence
+R_Odisha,A_24-10-2025,residence
+A_25-12-2025,R_Uttar Pradesh,residence
+A_25-12-2025,B_20626,biometric
+A_25-12-2025,R_West Bengal,residence
+A_25-12-2025,B_36079,biometric
+A_25-12-2025,R_Telangana,residence
+A_25-12-2025,B_21553,biometric
+A_25-12-2025,R_Tamil Nadu,residence
+A_25-12-2025,B_37895,biometric
+A_25-12-2025,R_Uttarakhand,residence
+A_25-12-2025,B_25009,biometric
+A_25-12-2025,R_Rajasthan,residence
+A_25-12-2025,B_17851,biometric
+R_Uttar Pradesh,A_27-12-2025,residence
+R_Uttar Pradesh,A_06-12-2025,residence
+R_Uttar Pradesh,A_15-09-2025,residence
+R_Uttar Pradesh,A_08-12-2025,residence
+R_Uttar Pradesh,A_23-12-2025,residence
+R_Uttar Pradesh,A_11-12-2025,residence
+R_Uttar Pradesh,A_15-11-2025,residence
+R_Uttar Pradesh,A_10-11-2025,residence
+R_Uttar Pradesh,A_14-12-2025,residence
+R_Uttar Pradesh,A_01-09-2025,residence
+R_Uttar Pradesh,A_13-11-2025,residence
+R_Uttar Pradesh,A_01-03-2025,residence
+R_Uttar Pradesh,A_02-11-2025,residence
+R_Uttar Pradesh,A_18-11-2025,residence
+R_Uttar Pradesh,A_05-09-2025,residence
+R_Uttar Pradesh,A_23-10-2025,residence
+R_Uttar Pradesh,A_03-09-2025,residence
+R_Uttar Pradesh,A_05-12-2025,residence
+R_Uttar Pradesh,A_31-10-2025,residence
+R_Uttar Pradesh,A_02-09-2025,residence
+R_Uttar Pradesh,A_19-10-2025,residence
+R_Uttar Pradesh,A_26-12-2025,residence
+R_Uttar Pradesh,A_07-09-2025,residence
+R_Uttar Pradesh,A_06-09-2025,residence
+R_Uttar Pradesh,A_03-12-2025,residence
+R_Uttar Pradesh,A_14-11-2025,residence
+R_Uttar Pradesh,A_25-10-2025,residence
+R_Uttar Pradesh,A_16-10-2025,residence
+R_Uttar Pradesh,A_15-12-2025,residence
+R_Uttar Pradesh,A_12-11-2025,residence
+R_Uttar Pradesh,A_15-10-2025,residence
+R_Uttar Pradesh,A_24-10-2025,residence
+R_Uttar Pradesh,A_08-09-2025,residence
+R_Uttar Pradesh,A_27-10-2025,residence
+R_Uttar Pradesh,A_19-12-2025,residence
+R_Uttar Pradesh,A_28-12-2025,residence
+R_Uttar Pradesh,A_05-11-2025,residence
+R_Uttar Pradesh,A_11-09-2025,residence
+R_Uttar Pradesh,A_14-09-2025,residence
+R_Uttar Pradesh,A_26-10-2025,residence
+R_Uttar Pradesh,A_30-10-2025,residence
+R_Uttar Pradesh,A_02-12-2025,residence
+R_Uttar Pradesh,A_04-12-2025,residence
+R_Uttar Pradesh,A_29-12-2025,residence
+R_Uttar Pradesh,A_16-11-2025,residence
+R_Uttar Pradesh,A_17-09-2025,residence
+R_Uttar Pradesh,A_01-12-2025,residence
+R_Uttar Pradesh,A_19-11-2025,residence
+R_Uttar Pradesh,A_17-10-2025,residence
+R_Uttar Pradesh,A_21-12-2025,residence
+R_Uttar Pradesh,A_18-12-2025,residence
+R_Uttar Pradesh,A_20-10-2025,residence
+R_Uttar Pradesh,A_11-11-2025,residence
+R_Uttar Pradesh,A_20-09-2025,residence
+R_Uttar Pradesh,A_04-11-2025,residence
+R_Uttar Pradesh,A_22-12-2025,residence
+R_Uttar Pradesh,A_10-12-2025,residence
+R_Uttar Pradesh,A_06-11-2025,residence
+R_Uttar Pradesh,A_17-11-2025,residence
+R_Uttar Pradesh,A_12-12-2025,residence
+R_Uttar Pradesh,A_19-09-2025,residence
+R_Uttar Pradesh,A_04-09-2025,residence
+R_Uttar Pradesh,A_09-09-2025,residence
+R_Uttar Pradesh,A_03-11-2025,residence
+R_Uttar Pradesh,A_25-11-2025,residence
+R_Uttar Pradesh,A_20-12-2025,residence
+R_Uttar Pradesh,A_29-10-2025,residence
+R_Uttar Pradesh,A_07-12-2025,residence
+R_Uttar Pradesh,A_28-10-2025,residence
+R_Uttar Pradesh,A_13-10-2025,residence
+R_Uttar Pradesh,A_12-09-2025,residence
+R_Uttar Pradesh,A_21-10-2025,residence
+R_Uttar Pradesh,A_16-12-2025,residence
+R_Uttar Pradesh,A_09-12-2025,residence
+R_Uttar Pradesh,A_18-10-2025,residence
+R_Uttar Pradesh,A_08-11-2025,residence
+R_Uttar Pradesh,A_13-12-2025,residence
+R_Uttar Pradesh,A_01-11-2025,residence
+R_Uttar Pradesh,A_07-11-2025,residence
+R_Uttar Pradesh,A_09-11-2025,residence
+R_Uttar Pradesh,A_01-06-2025,residence
+A_27-12-2025,B_93796,biometric
+A_27-12-2025,B_59613,biometric
+A_27-12-2025,R_Kerala,residence
+A_27-12-2025,B_26917,biometric
+A_27-12-2025,R_Gujarat,residence
+A_27-12-2025,B_64202,biometric
+A_27-12-2025,R_Maharashtra,residence
+A_27-12-2025,B_65158,biometric
+A_27-12-2025,B_37132,biometric
+A_27-12-2025,R_Punjab,residence
+A_27-12-2025,B_70315,biometric
+A_27-12-2025,R_Tamil Nadu,residence
+A_27-12-2025,B_42937,biometric
+A_27-12-2025,R_Telangana,residence
+A_27-12-2025,B_83420,biometric
+A_27-12-2025,R_Andhra Pradesh,residence
+A_27-12-2025,B_33147,biometric
+A_27-12-2025,R_Assam,residence
+A_27-12-2025,B_92366,biometric
+A_27-12-2025,R_Rajasthan,residence
+A_27-12-2025,B_77107,biometric
+A_27-12-2025,R_Madhya Pradesh,residence
+A_27-12-2025,B_27882,biometric
+A_27-12-2025,R_Orissa,residence
+A_27-12-2025,B_38011,biometric
+A_27-12-2025,R_Chhattisgarh,residence
+A_27-12-2025,B_58228,biometric
+A_27-12-2025,R_Uttarakhand,residence
+A_27-12-2025,B_19967,biometric
+A_27-12-2025,R_Jharkhand,residence
+A_27-12-2025,B_63926,biometric
+A_27-12-2025,R_Haryana,residence
+A_27-12-2025,B_85394,biometric
+A_27-12-2025,R_Himachal Pradesh,residence
+A_27-12-2025,B_19744,biometric
+A_27-12-2025,R_Jammu and Kashmir,residence
+A_27-12-2025,B_89010,biometric
+A_27-12-2025,R_Mizoram,residence
+A_27-12-2025,B_49418,biometric
+A_27-12-2025,R_Bihar,residence
+A_27-12-2025,B_68676,biometric
+A_27-12-2025,R_West Bengal,residence
+A_27-12-2025,B_42367,biometric
+A_27-12-2025,R_Delhi,residence
+A_27-12-2025,B_71581,biometric
+A_18-11-2025,R_Bihar,residence
+A_18-11-2025,B_6548,biometric
+A_18-11-2025,R_Jharkhand,residence
+A_18-11-2025,B_88702,biometric
+A_18-11-2025,B_87805,biometric
+A_18-11-2025,B_78012,biometric
+A_18-11-2025,B_18733,biometric
+A_18-11-2025,R_West Bengal,residence
+A_18-11-2025,B_67143,biometric
+A_18-11-2025,R_Maharashtra,residence
+A_18-11-2025,B_11234,biometric
+A_18-11-2025,R_Andhra Pradesh,residence
+A_18-11-2025,B_51546,biometric
+A_18-11-2025,R_Uttarakhand,residence
+A_18-11-2025,B_44743,biometric
+A_18-11-2025,R_Madhya Pradesh,residence
+A_18-11-2025,B_20786,biometric
+A_18-11-2025,R_Kerala,residence
+A_18-11-2025,B_54684,biometric
+A_18-11-2025,R_Chhattisgarh,residence
+A_18-11-2025,B_83004,biometric
+A_18-11-2025,R_Haryana,residence
+A_18-11-2025,B_96207,biometric
+A_18-11-2025,R_Meghalaya,residence
+A_18-11-2025,B_17116,biometric
+A_18-11-2025,R_Gujarat,residence
+A_18-11-2025,B_39426,biometric
+A_18-11-2025,R_Assam,residence
+A_18-11-2025,B_89235,biometric
+A_18-11-2025,R_Punjab,residence
+A_18-11-2025,B_51916,biometric
+A_18-11-2025,R_Rajasthan,residence
+A_18-11-2025,B_58708,biometric
+R_Bihar,A_02-12-2025,residence
+R_Bihar,A_01-03-2025,residence
+R_Bihar,A_06-09-2025,residence
+R_Bihar,A_02-11-2025,residence
+R_Bihar,A_07-12-2025,residence
+R_Bihar,A_04-12-2025,residence
+R_Bihar,A_16-12-2025,residence
+R_Bihar,A_01-12-2025,residence
+R_Bihar,A_14-12-2025,residence
+R_Bihar,A_07-11-2025,residence
+R_Bihar,A_03-09-2025,residence
+R_Bihar,A_13-09-2025,residence
+R_Bihar,A_08-12-2025,residence
+R_Bihar,A_21-10-2025,residence
+R_Bihar,A_20-09-2025,residence
+R_Bihar,A_13-12-2025,residence
+R_Bihar,A_23-12-2025,residence
+R_Bihar,A_11-11-2025,residence
+R_Bihar,A_16-11-2025,residence
+R_Bihar,A_06-12-2025,residence
+R_Bihar,A_11-09-2025,residence
+R_Bihar,A_26-12-2025,residence
+R_Bihar,A_26-11-2025,residence
+R_Bihar,A_03-11-2025,residence
+R_Bihar,A_19-11-2025,residence
+R_Bihar,A_26-10-2025,residence
+R_Bihar,A_05-09-2025,residence
+R_Bihar,A_12-12-2025,residence
+R_Bihar,A_15-09-2025,residence
+R_Bihar,A_17-10-2025,residence
+R_Bihar,A_12-11-2025,residence
+R_Bihar,A_28-11-2025,residence
+R_Bihar,A_18-12-2025,residence
+R_Bihar,A_11-12-2025,residence
+R_Bihar,A_05-12-2025,residence
+R_Bihar,A_08-11-2025,residence
+R_Bihar,A_02-09-2025,residence
+R_Bihar,A_14-09-2025,residence
+R_Bihar,A_10-12-2025,residence
+R_Bihar,A_09-09-2025,residence
+R_Bihar,A_15-10-2025,residence
+R_Bihar,A_08-09-2025,residence
+R_Bihar,A_22-12-2025,residence
+R_Bihar,A_01-11-2025,residence
+R_Bihar,A_16-09-2025,residence
+R_Bihar,A_20-12-2025,residence
+R_Bihar,A_06-11-2025,residence
+R_Bihar,A_14-11-2025,residence
+R_Bihar,A_04-11-2025,residence
+R_Bihar,A_01-09-2025,residence
+R_Bihar,A_28-12-2025,residence
+R_Bihar,A_13-11-2025,residence
+R_Bihar,A_18-09-2025,residence
+R_Bihar,A_20-10-2025,residence
+R_Bihar,A_19-12-2025,residence
+R_Bihar,A_15-11-2025,residence
+R_Bihar,A_04-09-2025,residence
+R_Bihar,A_27-10-2025,residence
+R_Bihar,A_09-11-2025,residence
+R_Bihar,A_16-10-2025,residence
+R_Bihar,A_29-12-2025,residence
+R_Bihar,A_19-09-2025,residence
+R_Bihar,A_25-11-2025,residence
+R_Bihar,A_24-10-2025,residence
+R_Bihar,A_15-12-2025,residence
+R_Bihar,A_24-12-2025,residence
+R_Bihar,A_17-11-2025,residence
+R_Bihar,A_30-10-2025,residence
+R_Bihar,A_03-12-2025,residence
+R_Bihar,A_05-11-2025,residence
+R_Bihar,A_31-10-2025,residence
+R_Bihar,A_09-12-2025,residence
+R_Bihar,A_28-10-2025,residence
+A_01-09-2025,R_Dadra & Nagar Haveli,residence
+A_01-09-2025,B_15751,biometric
+A_01-09-2025,B_13295,biometric
+A_01-09-2025,R_Kerala,residence
+A_01-09-2025,B_46416,biometric
+A_01-09-2025,B_79112,biometric
+A_01-09-2025,R_West Bengal,residence
+A_01-09-2025,B_28748,biometric
+A_01-09-2025,R_Tamil Nadu,residence
+A_01-09-2025,B_30564,biometric
+A_01-09-2025,R_Haryana,residence
+A_01-09-2025,B_73021,biometric
+A_01-09-2025,R_Madhya Pradesh,residence
+A_01-09-2025,B_48442,biometric
+A_01-09-2025,R_Maharashtra,residence
+A_01-09-2025,B_10134,biometric
+A_01-09-2025,R_Rajasthan,residence
+A_01-09-2025,B_89480,biometric
+A_01-09-2025,B_18951,biometric
+A_01-09-2025,R_Andhra Pradesh,residence
+A_01-09-2025,B_52646,biometric
+A_01-09-2025,B_17633,biometric
+A_01-09-2025,R_Orissa,residence
+A_01-09-2025,B_18512,biometric
+A_01-09-2025,R_Chhattisgarh,residence
+A_01-09-2025,B_38729,biometric
+A_01-09-2025,R_Punjab,residence
+A_01-09-2025,B_17312,biometric
+A_01-09-2025,R_Gujarat,residence
+A_01-09-2025,B_11090,biometric
+A_01-09-2025,R_Assam,residence
+A_01-09-2025,B_79993,biometric
+A_01-09-2025,R_Himachal Pradesh,residence
+A_01-09-2025,B_7371,biometric
+R_Dadra & Nagar Haveli,A_10-12-2025,residence
+A_13-09-2025,B_28640,biometric
+A_13-09-2025,R_Maharashtra,residence
+A_13-09-2025,B_23095,biometric
+A_13-09-2025,R_Punjab,residence
+A_13-09-2025,B_93048,biometric
+A_13-09-2025,B_88801,biometric
+A_13-09-2025,R_Tamil Nadu,residence
+A_13-09-2025,B_45316,biometric
+A_13-09-2025,R_Haryana,residence
+A_13-09-2025,B_2859,biometric
+A_13-09-2025,B_25385,biometric
+A_13-09-2025,R_Assam,residence
+A_13-09-2025,B_95887,biometric
+A_13-09-2025,R_Andhra Pradesh,residence
+A_13-09-2025,B_11931,biometric
+A_13-09-2025,R_Kerala,residence
+A_13-09-2025,B_61336,biometric
+A_13-09-2025,R_Chhattisgarh,residence
+A_13-09-2025,B_5135,biometric
+A_13-09-2025,R_Jharkhand,residence
+A_13-09-2025,B_99437,biometric
+A_13-09-2025,R_Madhya Pradesh,residence
+A_13-09-2025,B_35481,biometric
+A_13-09-2025,R_Telangana,residence
+A_13-09-2025,B_63295,biometric
+A_13-09-2025,R_Rajasthan,residence
+A_13-09-2025,B_97232,biometric
+A_13-09-2025,R_Mizoram,residence
+A_13-09-2025,B_38835,biometric
+A_13-09-2025,R_Gujarat,residence
+A_13-09-2025,B_24051,biometric
+A_13-09-2025,R_Orissa,residence
+A_13-09-2025,B_25352,biometric
+A_13-09-2025,R_Manipur,residence
+A_13-09-2025,B_19302,biometric
+A_06-12-2025,B_63437,biometric
+A_06-12-2025,B_97620,biometric
+A_06-12-2025,R_West Bengal,residence
+A_06-12-2025,B_8841,biometric
+A_06-12-2025,B_94365,biometric
+A_06-12-2025,R_Jharkhand,residence
+A_06-12-2025,B_64334,biometric
+A_06-12-2025,B_69084,biometric
+A_06-12-2025,R_Delhi,residence
+A_06-12-2025,B_85652,biometric
+A_06-12-2025,R_Madhya Pradesh,residence
+A_06-12-2025,B_28290,biometric
+A_06-12-2025,R_Tamil Nadu,residence
+A_06-12-2025,B_42529,biometric
+A_06-12-2025,R_Gujarat,residence
+A_06-12-2025,B_63794,biometric
+A_06-12-2025,R_Punjab,residence
+A_06-12-2025,B_24068,biometric
+A_06-12-2025,R_Assam,residence
+A_06-12-2025,B_64867,biometric
+A_06-12-2025,R_Maharashtra,residence
+A_06-12-2025,B_64750,biometric
+A_06-12-2025,R_Kerala,residence
+A_06-12-2025,B_30316,biometric
+A_06-12-2025,R_Telangana,residence
+A_06-12-2025,B_94315,biometric
+A_06-12-2025,R_Andhra Pradesh,residence
+A_06-12-2025,B_24086,biometric
+A_06-12-2025,R_Haryana,residence
+A_06-12-2025,B_71839,biometric
+A_06-12-2025,R_Orissa,residence
+A_06-12-2025,B_56372,biometric
+A_06-12-2025,R_Rajasthan,residence
+A_06-12-2025,B_66212,biometric
+A_06-12-2025,R_Pondicherry,residence
+A_06-12-2025,B_46494,biometric
+A_06-12-2025,R_Jammu and Kashmir,residence
+A_06-12-2025,B_31777,biometric
+A_06-12-2025,R_Himachal Pradesh,residence
+A_06-12-2025,B_37489,biometric
+A_06-12-2025,R_Arunachal Pradesh,residence
+A_06-12-2025,B_96286,biometric
+A_06-12-2025,R_Manipur,residence
+A_06-12-2025,B_88282,biometric
+A_06-12-2025,R_Tripura,residence
+A_06-12-2025,B_77609,biometric
+A_06-12-2025,R_Puducherry,residence
+A_06-12-2025,B_27175,biometric
+A_06-12-2025,R_Chhattisgarh,residence
+A_06-12-2025,B_58636,biometric
+A_02-12-2025,B_19851,biometric
+A_02-12-2025,R_Chhattisgarh,residence
+A_02-12-2025,B_37829,biometric
+A_02-12-2025,B_76813,biometric
+A_02-12-2025,R_Tamil Nadu,residence
+A_02-12-2025,B_63336,biometric
+A_02-12-2025,R_Gujarat,residence
+A_02-12-2025,B_84601,biometric
+A_02-12-2025,R_West Bengal,residence
+A_02-12-2025,B_29648,biometric
+A_02-12-2025,R_Assam,residence
+A_02-12-2025,B_44060,biometric
+A_02-12-2025,R_Delhi,residence
+A_02-12-2025,B_64845,biometric
+A_02-12-2025,R_Andhra Pradesh,residence
+A_02-12-2025,B_3279,biometric
+A_02-12-2025,B_42630,biometric
+A_02-12-2025,R_Rajasthan,residence
+A_02-12-2025,B_45405,biometric
+A_02-12-2025,R_Kerala,residence
+A_02-12-2025,B_9509,biometric
+A_02-12-2025,B_73558,biometric
+A_02-12-2025,R_Maharashtra,residence
+A_02-12-2025,B_85557,biometric
+A_02-12-2025,R_Manipur,residence
+A_02-12-2025,B_67475,biometric
+A_02-12-2025,R_Haryana,residence
+A_02-12-2025,B_51032,biometric
+A_02-12-2025,R_Telangana,residence
+A_02-12-2025,B_15122,biometric
+A_02-12-2025,R_Jammu and Kashmir,residence
+A_02-12-2025,B_52584,biometric
+A_02-12-2025,R_Punjab,residence
+A_02-12-2025,B_44875,biometric
+A_02-12-2025,R_Madhya Pradesh,residence
+A_02-12-2025,B_7483,biometric
+A_02-12-2025,R_Jharkhand,residence
+A_02-12-2025,B_43527,biometric
+A_02-12-2025,R_Goa,residence
+A_02-12-2025,B_13122,biometric
+A_12-11-2025,R_Telangana,residence
+A_12-11-2025,B_76512,biometric
+A_12-11-2025,R_Kerala,residence
+A_12-11-2025,B_18601,biometric
+A_12-11-2025,R_Punjab,residence
+A_12-11-2025,B_21369,biometric
+A_12-11-2025,R_Tamil Nadu,residence
+A_12-11-2025,B_60170,biometric
+A_12-11-2025,R_Andhra Pradesh,residence
+A_12-11-2025,B_56703,biometric
+A_12-11-2025,R_Maharashtra,residence
+A_12-11-2025,B_6077,biometric
+A_12-11-2025,R_West Bengal,residence
+A_12-11-2025,B_61986,biometric
+A_12-11-2025,R_Orissa,residence
+A_12-11-2025,B_53673,biometric
+A_12-11-2025,R_Gujarat,residence
+A_12-11-2025,B_7033,biometric
+A_12-11-2025,R_Tripura,residence
+A_12-11-2025,B_93218,biometric
+A_12-11-2025,B_83169,biometric
+A_12-11-2025,B_17352,biometric
+A_12-11-2025,B_86424,biometric
+A_12-11-2025,R_Madhya Pradesh,residence
+A_12-11-2025,B_52499,biometric
+A_12-11-2025,B_23008,biometric
+A_12-11-2025,R_Assam,residence
+A_12-11-2025,B_84050,biometric
+A_12-11-2025,R_Puducherry,residence
+A_12-11-2025,B_53614,biometric
+A_12-11-2025,R_Himachal Pradesh,residence
+A_12-11-2025,B_11428,biometric
+A_12-11-2025,R_Rajasthan,residence
+A_12-11-2025,B_14577,biometric
+A_12-11-2025,R_Jammu and Kashmir,residence
+A_12-11-2025,B_70922,biometric
+A_12-11-2025,R_Haryana,residence
+A_12-11-2025,B_77078,biometric
+A_12-11-2025,R_Chhattisgarh,residence
+A_12-11-2025,B_34672,biometric
+A_12-11-2025,R_Delhi,residence
+A_12-11-2025,B_63265,biometric
+A_12-11-2025,R_Andaman and Nicobar Islands,residence
+A_12-11-2025,B_65559,biometric
+A_12-11-2025,R_Jharkhand,residence
+A_12-11-2025,B_84583,biometric
+A_12-11-2025,R_Uttarakhand,residence
+A_12-11-2025,B_28542,biometric
+A_12-11-2025,R_Lakshadweep,residence
+A_12-11-2025,B_22672,biometric
+R_Telangana,A_20-10-2025,residence
+R_Telangana,A_10-12-2025,residence
+R_Telangana,A_19-09-2025,residence
+R_Telangana,A_01-12-2025,residence
+R_Telangana,A_16-10-2025,residence
+R_Telangana,A_23-12-2025,residence
+R_Telangana,A_14-12-2025,residence
+R_Telangana,A_11-09-2025,residence
+R_Telangana,A_15-12-2025,residence
+R_Telangana,A_19-11-2025,residence
+R_Telangana,A_12-12-2025,residence
+R_Telangana,A_29-12-2025,residence
+R_Telangana,A_15-09-2025,residence
+R_Telangana,A_11-12-2025,residence
+R_Telangana,A_17-11-2025,residence
+R_Telangana,A_03-12-2025,residence
+R_Telangana,A_21-12-2025,residence
+R_Telangana,A_08-09-2025,residence
+R_Telangana,A_24-10-2025,residence
+R_Telangana,A_14-11-2025,residence
+R_Telangana,A_12-09-2025,residence
+R_Telangana,A_06-09-2025,residence
+R_Telangana,A_09-12-2025,residence
+R_Telangana,A_16-12-2025,residence
+R_Telangana,A_20-09-2025,residence
+R_Telangana,A_08-12-2025,residence
+R_Telangana,A_09-11-2025,residence
+R_Telangana,A_17-09-2025,residence
+R_Telangana,A_02-09-2025,residence
+R_Telangana,A_11-11-2025,residence
+R_Telangana,A_17-10-2025,residence
+R_Telangana,A_16-11-2025,residence
+R_Telangana,A_07-11-2025,residence
+R_Telangana,A_26-10-2025,residence
+R_Telangana,A_10-11-2025,residence
+R_Telangana,A_05-11-2025,residence
+R_Telangana,A_04-12-2025,residence
+R_Telangana,A_03-11-2025,residence
+R_Telangana,A_13-11-2025,residence
+R_Telangana,A_01-04-2025,residence
+R_Telangana,A_25-10-2025,residence
+R_Telangana,A_05-09-2025,residence
+R_Telangana,A_01-03-2025,residence
+R_Telangana,A_02-11-2025,residence
+R_Telangana,A_14-09-2025,residence
+R_Telangana,A_31-10-2025,residence
+R_Telangana,A_15-10-2025,residence
+R_Telangana,A_05-12-2025,residence
+R_Telangana,A_22-12-2025,residence
+R_Telangana,A_30-10-2025,residence
+R_Telangana,A_15-11-2025,residence
+R_Telangana,A_07-12-2025,residence
+R_Telangana,A_28-10-2025,residence
+R_Telangana,A_06-11-2025,residence
+R_Telangana,A_18-12-2025,residence
+R_Telangana,A_19-12-2025,residence
+R_Telangana,A_07-09-2025,residence
+R_Telangana,A_09-09-2025,residence
+R_Telangana,A_08-11-2025,residence
+R_Telangana,A_27-10-2025,residence
+R_Telangana,A_28-12-2025,residence
+R_Telangana,A_21-10-2025,residence
+R_Telangana,A_19-10-2025,residence
+R_Telangana,A_13-10-2025,residence
+R_Telangana,A_04-11-2025,residence
+R_Telangana,A_26-12-2025,residence
+R_Telangana,A_04-09-2025,residence
+A_19-12-2025,R_Andhra Pradesh,residence
+A_19-12-2025,B_98090,biometric
+A_19-12-2025,R_Gujarat,residence
+A_19-12-2025,B_17842,biometric
+A_19-12-2025,R_Jharkhand,residence
+A_19-12-2025,B_52633,biometric
+A_19-12-2025,R_Orissa,residence
+A_19-12-2025,B_73068,biometric
+A_19-12-2025,R_Tamil Nadu,residence
+A_19-12-2025,B_7880,biometric
+A_19-12-2025,R_Assam,residence
+A_19-12-2025,B_42691,biometric
+A_19-12-2025,B_41261,biometric
+A_19-12-2025,B_72189,biometric
+A_19-12-2025,R_Madhya Pradesh,residence
+A_19-12-2025,B_20549,biometric
+A_19-12-2025,R_Maharashtra,residence
+A_19-12-2025,B_64690,biometric
+A_19-12-2025,R_Punjab,residence
+A_19-12-2025,B_5372,biometric
+A_19-12-2025,R_West Bengal,residence
+A_19-12-2025,B_74192,biometric
+A_19-12-2025,R_Kerala,residence
+A_19-12-2025,B_8140,biometric
+A_19-12-2025,R_Haryana,residence
+A_19-12-2025,B_49663,biometric
+A_19-12-2025,B_24556,biometric
+A_19-12-2025,R_Rajasthan,residence
+A_19-12-2025,B_12164,biometric
+A_19-12-2025,R_Jammu and Kashmir,residence
+A_19-12-2025,B_53953,biometric
+A_19-12-2025,R_Goa,residence
+A_19-12-2025,B_37125,biometric
+A_19-12-2025,B_3733,biometric
+A_19-12-2025,R_Uttaranchal,residence
+A_19-12-2025,B_79395,biometric
+A_19-12-2025,R_Andaman & Nicobar Islands,residence
+A_19-12-2025,B_76229,biometric
+A_19-12-2025,R_Himachal Pradesh,residence
+A_19-12-2025,B_15313,biometric
+A_19-12-2025,R_Delhi,residence
+A_19-12-2025,B_63476,biometric
+A_19-12-2025,B_48363,biometric
+A_19-12-2025,R_Daman & Diu,residence
+A_19-12-2025,B_83577,biometric
+A_19-12-2025,R_Manipur,residence
+A_19-12-2025,B_34234,biometric
+R_Andhra Pradesh,A_25-11-2025,residence
+R_Andhra Pradesh,A_28-12-2025,residence
+R_Andhra Pradesh,A_04-09-2025,residence
+R_Andhra Pradesh,A_19-11-2025,residence
+R_Andhra Pradesh,A_16-10-2025,residence
+R_Andhra Pradesh,A_16-11-2025,residence
+R_Andhra Pradesh,A_11-11-2025,residence
+R_Andhra Pradesh,A_07-12-2025,residence
+R_Andhra Pradesh,A_05-12-2025,residence
+R_Andhra Pradesh,A_10-12-2025,residence
+R_Andhra Pradesh,A_04-12-2025,residence
+R_Andhra Pradesh,A_09-09-2025,residence
+R_Andhra Pradesh,A_15-12-2025,residence
+R_Andhra Pradesh,A_29-10-2025,residence
+R_Andhra Pradesh,A_28-10-2025,residence
+R_Andhra Pradesh,A_23-12-2025,residence
+R_Andhra Pradesh,A_01-11-2025,residence
+R_Andhra Pradesh,A_26-12-2025,residence
+R_Andhra Pradesh,A_06-09-2025,residence
+R_Andhra Pradesh,A_26-11-2025,residence
+R_Andhra Pradesh,A_08-12-2025,residence
+R_Andhra Pradesh,A_08-11-2025,residence
+R_Andhra Pradesh,A_17-10-2025,residence
+R_Andhra Pradesh,A_14-12-2025,residence
+R_Andhra Pradesh,A_05-11-2025,residence
+R_Andhra Pradesh,A_11-12-2025,residence
+R_Andhra Pradesh,A_15-10-2025,residence
+R_Andhra Pradesh,A_21-12-2025,residence
+R_Andhra Pradesh,A_13-11-2025,residence
+R_Andhra Pradesh,A_29-12-2025,residence
+R_Andhra Pradesh,A_22-12-2025,residence
+R_Andhra Pradesh,A_01-12-2025,residence
+R_Andhra Pradesh,A_31-10-2025,residence
+R_Andhra Pradesh,A_07-11-2025,residence
+R_Andhra Pradesh,A_11-09-2025,residence
+R_Andhra Pradesh,A_24-12-2025,residence
+R_Andhra Pradesh,A_26-10-2025,residence
+R_Andhra Pradesh,A_03-09-2025,residence
+R_Andhra Pradesh,A_19-10-2025,residence
+R_Andhra Pradesh,A_16-12-2025,residence
+R_Andhra Pradesh,A_12-12-2025,residence
+R_Andhra Pradesh,A_29-11-2025,residence
+R_Andhra Pradesh,A_03-12-2025,residence
+R_Andhra Pradesh,A_20-10-2025,residence
+R_Andhra Pradesh,A_13-12-2025,residence
+R_Andhra Pradesh,A_06-11-2025,residence
+R_Andhra Pradesh,A_02-09-2025,residence
+R_Andhra Pradesh,A_03-11-2025,residence
+R_Andhra Pradesh,A_01-03-2025,residence
+R_Andhra Pradesh,A_27-10-2025,residence
+R_Andhra Pradesh,A_20-12-2025,residence
+R_Andhra Pradesh,A_30-10-2025,residence
+R_Andhra Pradesh,A_14-11-2025,residence
+R_Andhra Pradesh,A_18-12-2025,residence
+R_Andhra Pradesh,A_16-09-2025,residence
+R_Andhra Pradesh,A_15-11-2025,residence
+R_Andhra Pradesh,A_24-10-2025,residence
+R_Andhra Pradesh,A_15-09-2025,residence
+R_Andhra Pradesh,A_09-12-2025,residence
+R_Andhra Pradesh,A_05-09-2025,residence
+R_Andhra Pradesh,A_18-10-2025,residence
+R_Andhra Pradesh,A_14-09-2025,residence
+R_Andhra Pradesh,A_10-11-2025,residence
+R_Andhra Pradesh,A_20-09-2025,residence
+R_Andhra Pradesh,A_17-11-2025,residence
+R_Andhra Pradesh,A_12-09-2025,residence
+R_Andhra Pradesh,A_18-09-2025,residence
+R_Andhra Pradesh,A_09-11-2025,residence
+R_Andhra Pradesh,A_02-11-2025,residence
+R_Andhra Pradesh,A_25-10-2025,residence
+R_Andhra Pradesh,A_01-07-2025,residence
+R_Andhra Pradesh,A_01-04-2025,residence
+R_Andhra Pradesh,A_01-06-2025,residence
+R_Andhra Pradesh,A_01-05-2025,residence
+R_Andhra Pradesh,A_21-10-2025,residence
+R_Andhra Pradesh,A_13-10-2025,residence
+A_20-10-2025,R_West Bengal,residence
+A_20-10-2025,B_7483,biometric
+A_20-10-2025,B_22009,biometric
+A_20-10-2025,R_Tamil Nadu,residence
+A_20-10-2025,B_5667,biometric
+A_20-10-2025,R_Jharkhand,residence
+A_20-10-2025,B_39086,biometric
+A_20-10-2025,R_Maharashtra,residence
+A_20-10-2025,B_51574,biometric
+A_20-10-2025,R_Punjab,residence
+A_20-10-2025,B_75872,biometric
+A_20-10-2025,R_Kerala,residence
+A_20-10-2025,B_4976,biometric
+A_20-10-2025,R_Madhya Pradesh,residence
+A_20-10-2025,B_7002,biometric
+A_20-10-2025,B_11206,biometric
+A_20-10-2025,B_37672,biometric
+A_20-10-2025,R_Haryana,residence
+A_20-10-2025,B_31581,biometric
+A_20-10-2025,B_71855,biometric
+A_20-10-2025,B_40927,biometric
+A_20-10-2025,R_Jammu and Kashmir,residence
+A_20-10-2025,B_16419,biometric
+A_20-10-2025,R_Orissa,residence
+A_20-10-2025,B_59952,biometric
+A_20-10-2025,B_77511,biometric
+A_20-10-2025,R_Gujarat,residence
+A_20-10-2025,B_52530,biometric
+A_20-10-2025,R_Arunachal Pradesh,residence
+A_20-10-2025,B_7134,biometric
+A_20-10-2025,R_Chhattisgarh,residence
+A_20-10-2025,B_80169,biometric
+A_20-10-2025,R_Assam,residence
+A_20-10-2025,B_38553,biometric
+A_20-10-2025,R_Rajasthan,residence
+A_20-10-2025,B_69080,biometric
+A_20-10-2025,R_Himachal Pradesh,residence
+A_20-10-2025,B_97803,biometric
+A_20-10-2025,R_Uttarakhand,residence
+A_20-10-2025,B_83045,biometric
+R_West Bengal,A_11-09-2025,residence
+R_West Bengal,A_16-12-2025,residence
+R_West Bengal,A_02-11-2025,residence
+R_West Bengal,A_15-10-2025,residence
+R_West Bengal,A_01-06-2025,residence
+R_West Bengal,A_20-09-2025,residence
+R_West Bengal,A_08-12-2025,residence
+R_West Bengal,A_17-11-2025,residence
+R_West Bengal,A_25-10-2025,residence
+R_West Bengal,A_12-12-2025,residence
+R_West Bengal,A_26-12-2025,residence
+R_West Bengal,A_20-12-2025,residence
+R_West Bengal,A_19-09-2025,residence
+R_West Bengal,A_01-11-2025,residence
+R_West Bengal,A_15-12-2025,residence
+R_West Bengal,A_19-10-2025,residence
+R_West Bengal,A_25-11-2025,residence
+R_West Bengal,A_13-12-2025,residence
+R_West Bengal,A_07-09-2025,residence
+R_West Bengal,A_03-09-2025,residence
+R_West Bengal,A_17-09-2025,residence
+R_West Bengal,A_07-12-2025,residence
+R_West Bengal,A_10-12-2025,residence
+R_West Bengal,A_05-12-2025,residence
+R_West Bengal,A_15-09-2025,residence
+R_West Bengal,A_02-09-2025,residence
+R_West Bengal,A_26-11-2025,residence
+R_West Bengal,A_13-10-2025,residence
+R_West Bengal,A_14-11-2025,residence
+R_West Bengal,A_05-11-2025,residence
+R_West Bengal,A_10-11-2025,residence
+R_West Bengal,A_12-09-2025,residence
+R_West Bengal,A_03-12-2025,residence
+R_West Bengal,A_26-10-2025,residence
+R_West Bengal,A_22-12-2025,residence
+R_West Bengal,A_05-09-2025,residence
+R_West Bengal,A_06-09-2025,residence
+R_West Bengal,A_24-10-2025,residence
+R_West Bengal,A_31-10-2025,residence
+R_West Bengal,A_15-11-2025,residence
+R_West Bengal,A_16-11-2025,residence
+R_West Bengal,A_07-11-2025,residence
+R_West Bengal,A_03-11-2025,residence
+R_West Bengal,A_06-11-2025,residence
+R_West Bengal,A_04-09-2025,residence
+R_West Bengal,A_11-12-2025,residence
+R_West Bengal,A_23-12-2025,residence
+R_West Bengal,A_01-05-2025,residence
+R_West Bengal,A_21-12-2025,residence
+R_West Bengal,A_04-12-2025,residence
+R_West Bengal,A_19-11-2025,residence
+R_West Bengal,A_17-10-2025,residence
+R_West Bengal,A_23-10-2025,residence
+R_West Bengal,A_18-10-2025,residence
+R_West Bengal,A_08-09-2025,residence
+R_West Bengal,A_14-09-2025,residence
+R_West Bengal,A_01-03-2025,residence
+R_West Bengal,A_01-12-2025,residence
+R_West Bengal,A_28-12-2025,residence
+R_West Bengal,A_29-12-2025,residence
+R_West Bengal,A_09-12-2025,residence
+R_West Bengal,A_30-10-2025,residence
+R_West Bengal,A_14-12-2025,residence
+R_West Bengal,A_11-11-2025,residence
+R_West Bengal,A_27-10-2025,residence
+R_West Bengal,A_18-12-2025,residence
+R_West Bengal,A_04-11-2025,residence
+R_West Bengal,A_16-10-2025,residence
+A_16-09-2025,R_Kerala,residence
+A_16-09-2025,B_9569,biometric
+A_16-09-2025,R_Gujarat,residence
+A_16-09-2025,B_16065,biometric
+A_16-09-2025,R_Tamil Nadu,residence
+A_16-09-2025,B_25589,biometric
+A_16-09-2025,R_Madhya Pradesh,residence
+A_16-09-2025,B_13358,biometric
+A_16-09-2025,R_Rajasthan,residence
+A_16-09-2025,B_94455,biometric
+A_16-09-2025,B_45520,biometric
+A_16-09-2025,B_86024,biometric
+A_16-09-2025,B_35817,biometric
+A_16-09-2025,R_Maharashtra,residence
+A_16-09-2025,B_46981,biometric
+A_16-09-2025,R_Goa,residence
+A_16-09-2025,B_80584,biometric
+A_16-09-2025,R_Haryana,residence
+A_16-09-2025,B_68046,biometric
+A_16-09-2025,R_Chhattisgarh,residence
+A_16-09-2025,B_75576,biometric
+A_16-09-2025,R_Assam,residence
+A_16-09-2025,B_75018,biometric
+A_16-09-2025,R_Arunachal Pradesh,residence
+A_16-09-2025,B_43599,biometric
+A_16-09-2025,R_Delhi,residence
+A_16-09-2025,B_54233,biometric
+A_16-09-2025,R_Punjab,residence
+A_16-09-2025,B_87663,biometric
+A_16-09-2025,R_Meghalaya,residence
+A_16-09-2025,B_70247,biometric
+R_Kerala,A_12-12-2025,residence
+R_Kerala,A_11-12-2025,residence
+R_Kerala,A_12-09-2025,residence
+R_Kerala,A_28-10-2025,residence
+R_Kerala,A_04-12-2025,residence
+R_Kerala,A_03-12-2025,residence
+R_Kerala,A_03-09-2025,residence
+R_Kerala,A_23-12-2025,residence
+R_Kerala,A_13-11-2025,residence
+R_Kerala,A_25-10-2025,residence
+R_Kerala,A_09-09-2025,residence
+R_Kerala,A_21-10-2025,residence
+R_Kerala,A_25-11-2025,residence
+R_Kerala,A_04-11-2025,residence
+R_Kerala,A_06-11-2025,residence
+R_Kerala,A_15-10-2025,residence
+R_Kerala,A_16-12-2025,residence
+R_Kerala,A_06-09-2025,residence
+R_Kerala,A_26-12-2025,residence
+R_Kerala,A_11-11-2025,residence
+R_Kerala,A_13-12-2025,residence
+R_Kerala,A_15-09-2025,residence
+R_Kerala,A_07-12-2025,residence
+R_Kerala,A_20-12-2025,residence
+R_Kerala,A_01-12-2025,residence
+R_Kerala,A_26-11-2025,residence
+R_Kerala,A_08-09-2025,residence
+R_Kerala,A_24-10-2025,residence
+R_Kerala,A_04-09-2025,residence
+R_Kerala,A_28-12-2025,residence
+R_Kerala,A_28-11-2025,residence
+R_Kerala,A_09-12-2025,residence
+R_Kerala,A_03-11-2025,residence
+R_Kerala,A_17-11-2025,residence
+R_Kerala,A_27-10-2025,residence
+R_Kerala,A_07-11-2025,residence
+R_Kerala,A_10-11-2025,residence
+R_Kerala,A_10-12-2025,residence
+R_Kerala,A_19-11-2025,residence
+R_Kerala,A_08-11-2025,residence
+R_Kerala,A_31-10-2025,residence
+R_Kerala,A_21-12-2025,residence
+R_Kerala,A_01-11-2025,residence
+R_Kerala,A_20-09-2025,residence
+R_Kerala,A_22-12-2025,residence
+R_Kerala,A_19-10-2025,residence
+R_Kerala,A_05-12-2025,residence
+R_Kerala,A_19-09-2025,residence
+R_Kerala,A_09-11-2025,residence
+R_Kerala,A_05-11-2025,residence
+R_Kerala,A_18-09-2025,residence
+R_Kerala,A_30-10-2025,residence
+R_Kerala,A_11-09-2025,residence
+R_Kerala,A_26-10-2025,residence
+R_Kerala,A_08-12-2025,residence
+R_Kerala,A_17-10-2025,residence
+R_Kerala,A_29-10-2025,residence
+R_Kerala,A_15-11-2025,residence
+R_Kerala,A_18-12-2025,residence
+R_Kerala,A_15-12-2025,residence
+R_Kerala,A_23-10-2025,residence
+R_Kerala,A_01-03-2025,residence
+R_Kerala,A_14-11-2025,residence
+R_Kerala,A_14-12-2025,residence
+R_Kerala,A_29-12-2025,residence
+R_Kerala,A_14-09-2025,residence
+R_Kerala,A_17-09-2025,residence
+A_11-09-2025,B_53455,biometric
+A_11-09-2025,R_Tamil Nadu,residence
+A_11-09-2025,B_51639,biometric
+A_11-09-2025,R_Rajasthan,residence
+A_11-09-2025,B_79933,biometric
+A_11-09-2025,B_83635,biometric
+A_11-09-2025,B_65234,biometric
+A_11-09-2025,B_88364,biometric
+A_11-09-2025,B_82708,biometric
+A_11-09-2025,R_Assam,residence
+A_11-09-2025,B_2210,biometric
+A_11-09-2025,R_Punjab,residence
+A_11-09-2025,B_86725,biometric
+A_11-09-2025,R_Gujarat,residence
+A_11-09-2025,B_98502,biometric
+A_11-09-2025,B_15829,biometric
+A_11-09-2025,B_51780,biometric
+A_11-09-2025,R_Sikkim,residence
+A_11-09-2025,B_53975,biometric
+A_25-11-2025,B_66564,biometric
+A_25-11-2025,R_Assam,residence
+A_25-11-2025,B_93911,biometric
+A_25-11-2025,R_Maharashtra,residence
+A_25-11-2025,B_96216,biometric
+A_25-11-2025,R_Jharkhand,residence
+A_25-11-2025,B_94444,biometric
+A_25-11-2025,B_28462,biometric
+A_25-11-2025,B_52125,biometric
+A_25-11-2025,R_Gujarat,residence
+A_25-11-2025,B_54444,biometric
+A_25-11-2025,B_72787,biometric
+A_25-11-2025,R_Uttarakhand,residence
+A_25-11-2025,B_38403,biometric
+A_25-11-2025,B_93030,biometric
+A_25-11-2025,R_Himachal Pradesh,residence
+A_25-11-2025,B_21289,biometric
+A_25-11-2025,R_Madhya Pradesh,residence
+A_25-11-2025,B_62360,biometric
+A_25-11-2025,R_Jammu and Kashmir,residence
+A_25-11-2025,B_61061,biometric
+A_25-11-2025,B_67131,biometric
+A_25-11-2025,R_Chhattisgarh,residence
+A_25-11-2025,B_24811,biometric
+A_25-11-2025,R_Haryana,residence
+A_25-11-2025,B_86939,biometric
+A_25-11-2025,R_Tamil Nadu,residence
+A_25-11-2025,B_50309,biometric
+R_Chhattisgarh,A_14-12-2025,residence
+R_Chhattisgarh,A_02-09-2025,residence
+R_Chhattisgarh,A_18-09-2025,residence
+R_Chhattisgarh,A_23-12-2025,residence
+R_Chhattisgarh,A_04-09-2025,residence
+R_Chhattisgarh,A_30-10-2025,residence
+R_Chhattisgarh,A_08-12-2025,residence
+R_Chhattisgarh,A_08-11-2025,residence
+R_Chhattisgarh,A_19-11-2025,residence
+R_Chhattisgarh,A_15-10-2025,residence
+R_Chhattisgarh,A_04-12-2025,residence
+R_Chhattisgarh,A_01-12-2025,residence
+R_Chhattisgarh,A_13-11-2025,residence
+R_Chhattisgarh,A_17-11-2025,residence
+R_Chhattisgarh,A_24-10-2025,residence
+R_Chhattisgarh,A_28-10-2025,residence
+R_Chhattisgarh,A_01-06-2025,residence
+R_Chhattisgarh,A_05-09-2025,residence
+R_Chhattisgarh,A_12-12-2025,residence
+R_Chhattisgarh,A_07-12-2025,residence
+R_Chhattisgarh,A_04-11-2025,residence
+R_Chhattisgarh,A_16-12-2025,residence
+R_Chhattisgarh,A_01-03-2025,residence
+R_Chhattisgarh,A_13-12-2025,residence
+R_Chhattisgarh,A_09-12-2025,residence
+R_Chhattisgarh,A_11-12-2025,residence
+R_Chhattisgarh,A_26-12-2025,residence
+R_Chhattisgarh,A_06-09-2025,residence
+R_Chhattisgarh,A_09-09-2025,residence
+R_Chhattisgarh,A_26-10-2025,residence
+R_Chhattisgarh,A_01-04-2025,residence
+R_Chhattisgarh,A_15-09-2025,residence
+R_Chhattisgarh,A_28-12-2025,residence
+R_Chhattisgarh,A_03-11-2025,residence
+R_Chhattisgarh,A_05-12-2025,residence
+R_Chhattisgarh,A_01-11-2025,residence
+R_Chhattisgarh,A_15-11-2025,residence
+R_Chhattisgarh,A_27-10-2025,residence
+R_Chhattisgarh,A_19-09-2025,residence
+R_Chhattisgarh,A_24-12-2025,residence
+R_Chhattisgarh,A_14-11-2025,residence
+R_Chhattisgarh,A_05-11-2025,residence
+R_Chhattisgarh,A_15-12-2025,residence
+R_Chhattisgarh,A_09-11-2025,residence
+R_Chhattisgarh,A_18-12-2025,residence
+R_Chhattisgarh,A_16-11-2025,residence
+R_Chhattisgarh,A_11-11-2025,residence
+R_Chhattisgarh,A_10-12-2025,residence
+R_Chhattisgarh,A_03-12-2025,residence
+R_Chhattisgarh,A_08-09-2025,residence
+R_Chhattisgarh,A_20-12-2025,residence
+A_12-12-2025,B_73739,biometric
+A_12-12-2025,R_Assam,residence
+A_12-12-2025,B_55603,biometric
+A_12-12-2025,R_Tamil Nadu,residence
+A_12-12-2025,B_36904,biometric
+A_12-12-2025,R_Madhya Pradesh,residence
+A_12-12-2025,B_75765,biometric
+A_12-12-2025,R_Maharashtra,residence
+A_12-12-2025,B_82811,biometric
+A_12-12-2025,R_Gujarat,residence
+A_12-12-2025,B_83767,biometric
+A_12-12-2025,B_38720,biometric
+A_12-12-2025,R_Jharkhand,residence
+A_12-12-2025,B_7849,biometric
+A_12-12-2025,R_Jammu and Kashmir,residence
+A_12-12-2025,B_9169,biometric
+A_12-12-2025,B_98370,biometric
+A_12-12-2025,B_66515,biometric
+A_12-12-2025,B_79969,biometric
+A_12-12-2025,B_6435,biometric
+A_12-12-2025,B_48517,biometric
+A_12-12-2025,R_Rajasthan,residence
+A_12-12-2025,B_37843,biometric
+A_12-12-2025,R_Puducherry,residence
+A_12-12-2025,B_76880,biometric
+A_12-12-2025,B_40618,biometric
+A_12-12-2025,R_Punjab,residence
+A_12-12-2025,B_44635,biometric
+A_12-12-2025,B_45419,biometric
+A_12-12-2025,R_Haryana,residence
+A_12-12-2025,B_344,biometric
+A_12-12-2025,R_Sikkim,residence
+A_12-12-2025,B_68710,biometric
+A_12-12-2025,R_Mizoram,residence
+A_12-12-2025,B_96240,biometric
+A_12-12-2025,R_Himachal Pradesh,residence
+A_12-12-2025,B_66566,biometric
+A_12-12-2025,R_Meghalaya,residence
+A_12-12-2025,B_45539,biometric
+A_12-12-2025,R_Orissa,residence
+A_12-12-2025,B_91189,biometric
+A_12-12-2025,R_Manipur,residence
+A_12-12-2025,B_79018,biometric
+A_12-12-2025,R_Dadra and Nagar Haveli and Daman and Diu,residence
+A_12-12-2025,B_2925,biometric
+A_12-12-2025,R_Pondicherry,residence
+A_12-12-2025,B_57561,biometric
+A_12-12-2025,R_Delhi,residence
+A_12-12-2025,B_86531,biometric
+A_28-12-2025,B_33655,biometric
+A_28-12-2025,R_Rajasthan,residence
+A_28-12-2025,B_8471,biometric
+A_28-12-2025,R_Assam,residence
+A_28-12-2025,B_61002,biometric
+A_28-12-2025,R_Maharashtra,residence
+A_28-12-2025,B_29125,biometric
+A_28-12-2025,B_36624,biometric
+A_28-12-2025,B_94304,biometric
+A_28-12-2025,R_Tamil Nadu,residence
+A_28-12-2025,B_83218,biometric
+A_28-12-2025,B_27425,biometric
+A_28-12-2025,R_Gujarat,residence
+A_28-12-2025,B_30081,biometric
+A_28-12-2025,B_56785,biometric
+A_28-12-2025,R_Manipur,residence
+A_28-12-2025,B_69459,biometric
+A_28-12-2025,B_60121,biometric
+A_28-12-2025,R_Madhya Pradesh,residence
+A_28-12-2025,B_29451,biometric
+A_28-12-2025,B_99105,biometric
+A_28-12-2025,B_85034,biometric
+A_28-12-2025,R_Delhi,residence
+A_28-12-2025,B_40217,biometric
+A_28-12-2025,R_Mizoram,residence
+A_28-12-2025,B_33562,biometric
+A_28-12-2025,B_52056,biometric
+A_28-12-2025,R_Punjab,residence
+A_28-12-2025,B_1679,biometric
+A_28-12-2025,R_Jammu and Kashmir,residence
+A_28-12-2025,B_93970,biometric
+A_28-12-2025,R_Puducherry,residence
+A_28-12-2025,B_30566,biometric
+A_28-12-2025,R_Jharkhand,residence
+A_28-12-2025,B_61535,biometric
+R_Gujarat,A_24-10-2025,residence
+R_Gujarat,A_13-12-2025,residence
+R_Gujarat,A_04-12-2025,residence
+R_Gujarat,A_07-12-2025,residence
+R_Gujarat,A_10-11-2025,residence
+R_Gujarat,A_29-10-2025,residence
+R_Gujarat,A_08-12-2025,residence
+R_Gujarat,A_28-10-2025,residence
+R_Gujarat,A_06-11-2025,residence
+R_Gujarat,A_09-12-2025,residence
+R_Gujarat,A_03-09-2025,residence
+R_Gujarat,A_20-12-2025,residence
+R_Gujarat,A_02-11-2025,residence
+R_Gujarat,A_15-12-2025,residence
+R_Gujarat,A_13-11-2025,residence
+R_Gujarat,A_11-11-2025,residence
+R_Gujarat,A_03-12-2025,residence
+R_Gujarat,A_22-12-2025,residence
+R_Gujarat,A_08-09-2025,residence
+R_Gujarat,A_23-12-2025,residence
+R_Gujarat,A_10-12-2025,residence
+R_Gujarat,A_26-11-2025,residence
+R_Gujarat,A_01-07-2025,residence
+R_Gujarat,A_16-12-2025,residence
+R_Gujarat,A_30-10-2025,residence
+R_Gujarat,A_16-11-2025,residence
+R_Gujarat,A_31-10-2025,residence
+R_Gujarat,A_14-12-2025,residence
+R_Gujarat,A_05-09-2025,residence
+R_Gujarat,A_11-12-2025,residence
+R_Gujarat,A_26-10-2025,residence
+R_Gujarat,A_17-11-2025,residence
+R_Gujarat,A_07-11-2025,residence
+R_Gujarat,A_24-12-2025,residence
+R_Gujarat,A_08-11-2025,residence
+R_Gujarat,A_29-12-2025,residence
+R_Gujarat,A_09-09-2025,residence
+R_Gujarat,A_20-09-2025,residence
+R_Gujarat,A_29-11-2025,residence
+R_Gujarat,A_05-11-2025,residence
+R_Gujarat,A_12-09-2025,residence
+R_Gujarat,A_15-09-2025,residence
+R_Gujarat,A_05-12-2025,residence
+R_Gujarat,A_06-09-2025,residence
+R_Gujarat,A_15-11-2025,residence
+R_Gujarat,A_18-09-2025,residence
+R_Gujarat,A_04-09-2025,residence
+R_Gujarat,A_07-09-2025,residence
+R_Gujarat,A_19-09-2025,residence
+R_Gujarat,A_16-10-2025,residence
+R_Gujarat,A_09-11-2025,residence
+R_Gujarat,A_15-10-2025,residence
+R_Gujarat,A_28-11-2025,residence
+R_Gujarat,A_01-03-2025,residence
+R_Gujarat,A_01-04-2025,residence
+R_Gujarat,A_27-10-2025,residence
+R_Gujarat,A_17-10-2025,residence
+R_Gujarat,A_01-12-2025,residence
+R_Gujarat,A_01-11-2025,residence
+R_Gujarat,A_03-11-2025,residence
+R_Gujarat,A_02-09-2025,residence
+R_Gujarat,A_26-12-2025,residence
+R_Gujarat,A_04-11-2025,residence
+R_Gujarat,A_18-12-2025,residence
+R_Gujarat,A_17-09-2025,residence
+R_Tamil Nadu,A_05-12-2025,residence
+R_Tamil Nadu,A_23-12-2025,residence
+R_Tamil Nadu,A_15-10-2025,residence
+R_Tamil Nadu,A_27-10-2025,residence
+R_Tamil Nadu,A_21-10-2025,residence
+R_Tamil Nadu,A_14-12-2025,residence
+R_Tamil Nadu,A_05-11-2025,residence
+R_Tamil Nadu,A_03-09-2025,residence
+R_Tamil Nadu,A_15-12-2025,residence
+R_Tamil Nadu,A_10-11-2025,residence
+R_Tamil Nadu,A_02-09-2025,residence
+R_Tamil Nadu,A_28-11-2025,residence
+R_Tamil Nadu,A_11-12-2025,residence
+R_Tamil Nadu,A_18-09-2025,residence
+R_Tamil Nadu,A_08-11-2025,residence
+R_Tamil Nadu,A_09-12-2025,residence
+R_Tamil Nadu,A_08-12-2025,residence
+R_Tamil Nadu,A_17-10-2025,residence
+R_Tamil Nadu,A_13-11-2025,residence
+R_Tamil Nadu,A_31-10-2025,residence
+R_Tamil Nadu,A_02-11-2025,residence
+R_Tamil Nadu,A_25-10-2025,residence
+R_Tamil Nadu,A_26-10-2025,residence
+R_Tamil Nadu,A_16-12-2025,residence
+R_Tamil Nadu,A_17-09-2025,residence
+R_Tamil Nadu,A_07-12-2025,residence
+R_Tamil Nadu,A_19-11-2025,residence
+R_Tamil Nadu,A_10-12-2025,residence
+R_Tamil Nadu,A_14-11-2025,residence
+R_Tamil Nadu,A_04-12-2025,residence
+R_Tamil Nadu,A_07-11-2025,residence
+R_Tamil Nadu,A_01-03-2025,residence
+R_Tamil Nadu,A_04-09-2025,residence
+R_Tamil Nadu,A_08-09-2025,residence
+R_Tamil Nadu,A_07-09-2025,residence
+R_Tamil Nadu,A_05-09-2025,residence
+R_Tamil Nadu,A_22-12-2025,residence
+R_Tamil Nadu,A_03-12-2025,residence
+R_Tamil Nadu,A_01-12-2025,residence
+R_Tamil Nadu,A_03-11-2025,residence
+R_Tamil Nadu,A_01-11-2025,residence
+R_Tamil Nadu,A_30-10-2025,residence
+R_Tamil Nadu,A_26-12-2025,residence
+R_Tamil Nadu,A_12-09-2025,residence
+R_Tamil Nadu,A_13-10-2025,residence
+R_Tamil Nadu,A_16-11-2025,residence
+R_Tamil Nadu,A_06-11-2025,residence
+R_Tamil Nadu,A_29-12-2025,residence
+R_Tamil Nadu,A_17-11-2025,residence
+R_Tamil Nadu,A_20-09-2025,residence
+R_Tamil Nadu,A_11-11-2025,residence
+R_Tamil Nadu,A_04-11-2025,residence
+R_Tamil Nadu,A_18-12-2025,residence
+R_Tamil Nadu,A_29-10-2025,residence
+R_Tamil Nadu,A_24-10-2025,residence
+R_Tamil Nadu,A_28-10-2025,residence
+R_Tamil Nadu,A_15-09-2025,residence
+R_Tamil Nadu,A_15-11-2025,residence
+R_Tamil Nadu,A_14-09-2025,residence
+R_Tamil Nadu,A_19-10-2025,residence
+R_Tamil Nadu,A_09-09-2025,residence
+R_Tamil Nadu,A_19-09-2025,residence
+R_Tamil Nadu,A_20-12-2025,residence
+R_Tamil Nadu,A_21-12-2025,residence
+R_Tamil Nadu,A_13-12-2025,residence
+R_Tamil Nadu,A_23-10-2025,residence
+R_Tamil Nadu,A_16-10-2025,residence
+R_Tamil Nadu,A_09-11-2025,residence
+R_Tamil Nadu,A_01-04-2025,residence
+A_09-09-2025,R_Haryana,residence
+A_09-09-2025,B_31404,biometric
+A_09-09-2025,B_16349,biometric
+A_09-09-2025,B_42815,biometric
+A_09-09-2025,B_53930,biometric
+A_09-09-2025,B_89881,biometric
+A_09-09-2025,R_Punjab,residence
+A_09-09-2025,B_87113,biometric
+A_09-09-2025,R_Maharashtra,residence
+A_09-09-2025,B_46431,biometric
+A_09-09-2025,R_Assam,residence
+A_09-09-2025,B_24432,biometric
+A_09-09-2025,R_Himachal Pradesh,residence
+A_09-09-2025,B_97054,biometric
+A_09-09-2025,B_85474,biometric
+A_09-09-2025,B_23002,biometric
+A_09-09-2025,R_Manipur,residence
+A_09-09-2025,B_47847,biometric
+A_09-09-2025,B_4229,biometric
+A_09-09-2025,B_75026,biometric
+A_09-09-2025,R_Jammu and Kashmir,residence
+A_09-09-2025,B_72212,biometric
+A_09-09-2025,B_26139,biometric
+A_09-09-2025,B_66622,biometric
+A_09-09-2025,R_Orissa,residence
+A_09-09-2025,B_54809,biometric
+A_09-09-2025,R_Rajasthan,residence
+A_09-09-2025,B_93905,biometric
+A_09-09-2025,R_Jharkhand,residence
+A_09-09-2025,B_70892,biometric
+A_09-09-2025,R_Madhya Pradesh,residence
+A_09-09-2025,B_38808,biometric
+R_Haryana,A_15-09-2025,residence
+R_Haryana,A_21-10-2025,residence
+R_Haryana,A_07-12-2025,residence
+R_Haryana,A_19-09-2025,residence
+R_Haryana,A_23-12-2025,residence
+R_Haryana,A_01-03-2025,residence
+R_Haryana,A_29-11-2025,residence
+R_Haryana,A_01-12-2025,residence
+R_Haryana,A_02-09-2025,residence
+R_Haryana,A_14-12-2025,residence
+R_Haryana,A_27-10-2025,residence
+R_Haryana,A_11-12-2025,residence
+R_Haryana,A_01-11-2025,residence
+R_Haryana,A_18-09-2025,residence
+R_Haryana,A_28-10-2025,residence
+R_Haryana,A_15-11-2025,residence
+R_Haryana,A_30-10-2025,residence
+R_Haryana,A_15-12-2025,residence
+R_Haryana,A_05-12-2025,residence
+R_Haryana,A_20-09-2025,residence
+R_Haryana,A_13-11-2025,residence
+R_Haryana,A_04-12-2025,residence
+R_Haryana,A_07-11-2025,residence
+R_Haryana,A_13-12-2025,residence
+R_Haryana,A_11-11-2025,residence
+R_Haryana,A_16-12-2025,residence
+R_Haryana,A_17-10-2025,residence
+R_Haryana,A_10-12-2025,residence
+R_Haryana,A_26-10-2025,residence
+R_Haryana,A_03-09-2025,residence
+R_Haryana,A_08-12-2025,residence
+R_Haryana,A_09-11-2025,residence
+R_Haryana,A_29-10-2025,residence
+R_Haryana,A_31-10-2025,residence
+R_Haryana,A_28-11-2025,residence
+R_Haryana,A_22-12-2025,residence
+R_Haryana,A_03-12-2025,residence
+R_Haryana,A_19-11-2025,residence
+R_Haryana,A_17-11-2025,residence
+R_Haryana,A_17-09-2025,residence
+R_Haryana,A_05-09-2025,residence
+R_Haryana,A_09-12-2025,residence
+R_Haryana,A_23-10-2025,residence
+R_Haryana,A_03-11-2025,residence
+R_Haryana,A_12-09-2025,residence
+R_Haryana,A_16-11-2025,residence
+R_Haryana,A_06-11-2025,residence
+R_Haryana,A_01-05-2025,residence
+R_Haryana,A_04-11-2025,residence
+R_Haryana,A_01-07-2025,residence
+A_04-09-2025,B_29685,biometric
+A_04-09-2025,R_Madhya Pradesh,residence
+A_04-09-2025,B_33889,biometric
+A_04-09-2025,B_64235,biometric
+A_04-09-2025,R_Assam,residence
+A_04-09-2025,B_86359,biometric
+A_04-09-2025,R_Jharkhand,residence
+A_04-09-2025,B_69933,biometric
+A_04-09-2025,B_36930,biometric
+A_04-09-2025,B_35915,biometric
+A_04-09-2025,B_69036,biometric
+A_04-09-2025,B_3242,biometric
+A_04-09-2025,B_3219,biometric
+A_04-09-2025,B_93445,biometric
+A_04-09-2025,B_58195,biometric
+A_04-09-2025,R_Tripura,residence
+A_04-09-2025,B_22781,biometric
+A_04-09-2025,R_Uttarakhand,residence
+A_04-09-2025,B_25974,biometric
+A_04-09-2025,R_Arunachal Pradesh,residence
+A_04-09-2025,B_1885,biometric
+A_04-09-2025,R_Maharashtra,residence
+A_04-09-2025,B_59151,biometric
+A_04-09-2025,R_Rajasthan,residence
+A_04-09-2025,B_71811,biometric
+A_04-09-2025,B_88716,biometric
+A_16-12-2025,B_33275,biometric
+A_16-12-2025,B_43072,biometric
+A_16-12-2025,B_71960,biometric
+A_16-12-2025,R_Madhya Pradesh,residence
+A_16-12-2025,B_81210,biometric
+A_16-12-2025,R_Maharashtra,residence
+A_16-12-2025,B_77366,biometric
+A_16-12-2025,B_47479,biometric
+A_16-12-2025,B_85414,biometric
+A_16-12-2025,B_31459,biometric
+A_16-12-2025,R_Rajasthan,residence
+A_16-12-2025,B_51503,biometric
+A_16-12-2025,R_Dadra and Nagar Haveli,residence
+A_16-12-2025,B_92714,biometric
+A_16-12-2025,B_78322,biometric
+A_16-12-2025,B_90976,biometric
+A_16-12-2025,R_Jharkhand,residence
+A_16-12-2025,B_13294,biometric
+A_16-12-2025,B_82911,biometric
+A_16-12-2025,B_50864,biometric
+A_16-12-2025,R_Punjab,residence
+A_16-12-2025,B_44711,biometric
+A_16-12-2025,B_48728,biometric
+A_16-12-2025,B_89002,biometric
+A_16-12-2025,R_Tripura,residence
+A_16-12-2025,B_92318,biometric
+A_16-12-2025,R_Himachal Pradesh,residence
+A_16-12-2025,B_54652,biometric
+A_16-12-2025,R_Meghalaya,residence
+A_16-12-2025,B_632,biometric
+A_16-12-2025,R_Jammu and Kashmir,residence
+A_16-12-2025,B_14614,biometric
+A_16-12-2025,R_Assam,residence
+A_16-12-2025,B_82030,biometric
+A_16-12-2025,R_Orissa,residence
+A_16-12-2025,B_71081,biometric
+A_10-12-2025,R_Jammu and Kashmir,residence
+A_10-12-2025,B_34303,biometric
+A_10-12-2025,B_28112,biometric
+A_10-12-2025,B_5103,biometric
+A_10-12-2025,B_31569,biometric
+A_10-12-2025,B_13586,biometric
+A_10-12-2025,R_Madhya Pradesh,residence
+A_10-12-2025,B_899,biometric
+A_10-12-2025,B_11770,biometric
+A_10-12-2025,R_Maharashtra,residence
+A_10-12-2025,B_57677,biometric
+A_10-12-2025,B_58633,biometric
+A_10-12-2025,B_23383,biometric
+A_10-12-2025,R_Assam,residence
+A_10-12-2025,B_62341,biometric
+A_10-12-2025,B_22577,biometric
+A_10-12-2025,B_95918,biometric
+A_10-12-2025,R_Uttarakhand,residence
+A_10-12-2025,B_76942,biometric
+A_10-12-2025,R_Punjab,residence
+A_10-12-2025,B_26594,biometric
+A_10-12-2025,B_91649,biometric
+A_10-12-2025,B_31422,biometric
+A_10-12-2025,R_Rajasthan,residence
+A_10-12-2025,B_19802,biometric
+A_10-12-2025,B_25478,biometric
+A_10-12-2025,R_Jharkhand,residence
+A_10-12-2025,B_32983,biometric
+A_10-12-2025,B_70553,biometric
+A_10-12-2025,R_Delhi,residence
+A_10-12-2025,B_11665,biometric
+R_Jammu and Kashmir,A_19-11-2025,residence
+R_Jammu and Kashmir,A_04-12-2025,residence
+R_Jammu and Kashmir,A_01-11-2025,residence
+R_Jammu and Kashmir,A_24-10-2025,residence
+R_Jammu and Kashmir,A_08-09-2025,residence
+R_Jammu and Kashmir,A_15-10-2025,residence
+R_Jammu and Kashmir,A_03-09-2025,residence
+R_Jammu and Kashmir,A_20-09-2025,residence
+R_Jammu and Kashmir,A_29-10-2025,residence
+R_Jammu and Kashmir,A_15-09-2025,residence
+R_Jammu and Kashmir,A_07-12-2025,residence
+R_Jammu and Kashmir,A_17-11-2025,residence
+R_Jammu and Kashmir,A_08-11-2025,residence
+R_Jammu and Kashmir,A_01-03-2025,residence
+R_Jammu and Kashmir,A_09-12-2025,residence
+R_Jammu and Kashmir,A_01-12-2025,residence
+R_Jammu and Kashmir,A_18-09-2025,residence
+R_Jammu and Kashmir,A_11-12-2025,residence
+R_Jammu and Kashmir,A_08-12-2025,residence
+R_Jammu and Kashmir,A_21-10-2025,residence
+R_Jammu and Kashmir,A_26-10-2025,residence
+R_Jammu and Kashmir,A_05-12-2025,residence
+R_Jammu and Kashmir,A_20-12-2025,residence
+R_Jammu and Kashmir,A_15-11-2025,residence
+R_Jammu and Kashmir,A_23-12-2025,residence
+R_Jammu and Kashmir,A_17-09-2025,residence
+R_Jammu and Kashmir,A_02-09-2025,residence
+R_Jammu and Kashmir,A_21-12-2025,residence
+R_Jammu and Kashmir,A_22-12-2025,residence
+R_Jammu and Kashmir,A_30-10-2025,residence
+R_Jammu and Kashmir,A_13-11-2025,residence
+R_Jammu and Kashmir,A_18-12-2025,residence
+R_Jammu and Kashmir,A_31-10-2025,residence
+R_Jammu and Kashmir,A_05-09-2025,residence
+R_Jammu and Kashmir,A_03-12-2025,residence
+R_Jammu and Kashmir,A_14-12-2025,residence
+R_Jammu and Kashmir,A_16-11-2025,residence
+R_Jammu and Kashmir,A_10-11-2025,residence
+A_26-11-2025,R_Meghalaya,residence
+A_26-11-2025,B_19334,biometric
+A_26-11-2025,B_84904,biometric
+A_26-11-2025,B_96433,biometric
+A_26-11-2025,R_Mizoram,residence
+A_26-11-2025,B_68633,biometric
+A_26-11-2025,B_48023,biometric
+A_26-11-2025,R_Maharashtra,residence
+A_26-11-2025,B_96068,biometric
+A_26-11-2025,B_33017,biometric
+A_26-11-2025,B_60482,biometric
+A_26-11-2025,B_97024,biometric
+A_26-11-2025,R_Pondicherry,residence
+A_26-11-2025,B_44304,biometric
+A_26-11-2025,R_Orissa,residence
+A_26-11-2025,B_95554,biometric
+A_26-11-2025,R_Madhya Pradesh,residence
+A_26-11-2025,B_62508,biometric
+A_26-11-2025,R_Manipur,residence
+A_26-11-2025,B_2516,biometric
+A_26-11-2025,B_93178,biometric
+A_26-11-2025,R_Jharkhand,residence
+A_26-11-2025,B_26464,biometric
+A_26-11-2025,R_Punjab,residence
+A_26-11-2025,B_63250,biometric
+A_26-11-2025,R_Himachal Pradesh,residence
+A_26-11-2025,B_53309,biometric
+A_26-11-2025,R_Puducherry,residence
+A_26-11-2025,B_87993,biometric
+R_Meghalaya,A_15-09-2025,residence
+R_Meghalaya,A_04-11-2025,residence
+R_Meghalaya,A_28-11-2025,residence
+R_Meghalaya,A_07-12-2025,residence
+R_Meghalaya,A_01-12-2025,residence
+R_Meghalaya,A_15-11-2025,residence
+R_Meghalaya,A_10-11-2025,residence
+R_Meghalaya,A_17-10-2025,residence
+R_Meghalaya,A_11-12-2025,residence
+R_Meghalaya,A_05-11-2025,residence
+R_Meghalaya,A_05-12-2025,residence
+R_Meghalaya,A_18-09-2025,residence
+R_Meghalaya,A_06-09-2025,residence
+R_Meghalaya,A_06-11-2025,residence
+R_Meghalaya,A_31-10-2025,residence
+R_Meghalaya,A_11-11-2025,residence
+R_Meghalaya,A_09-12-2025,residence
+R_Meghalaya,A_07-11-2025,residence
+A_19-11-2025,B_31408,biometric
+A_19-11-2025,B_7520,biometric
+A_19-11-2025,B_49809,biometric
+A_19-11-2025,B_3142,biometric
+A_19-11-2025,B_54538,biometric
+A_19-11-2025,B_98023,biometric
+A_19-11-2025,B_48882,biometric
+A_19-11-2025,R_Maharashtra,residence
+A_19-11-2025,B_20244,biometric
+A_19-11-2025,R_Rajasthan,residence
+A_19-11-2025,B_46107,biometric
+A_19-11-2025,B_82003,biometric
+A_19-11-2025,B_42126,biometric
+A_19-11-2025,B_87281,biometric
+A_19-11-2025,R_Uttarakhand,residence
+A_19-11-2025,B_64881,biometric
+A_19-11-2025,R_Himachal Pradesh,residence
+A_19-11-2025,B_81995,biometric
+A_19-11-2025,R_Madhya Pradesh,residence
+A_19-11-2025,B_72796,biometric
+A_19-11-2025,R_Manipur,residence
+A_19-11-2025,B_24037,biometric
+A_19-11-2025,R_Delhi,residence
+A_19-11-2025,B_30158,biometric
+A_19-11-2025,R_Jharkhand,residence
+A_19-11-2025,B_8840,biometric
+A_19-11-2025,B_16345,biometric
+A_19-11-2025,R_Assam,residence
+A_19-11-2025,B_47452,biometric
+A_19-11-2025,B_82046,biometric
+A_19-11-2025,R_Mizoram,residence
+A_19-11-2025,B_52321,biometric
+A_19-11-2025,R_Pondicherry,residence
+A_19-11-2025,B_91000,biometric
+A_01-03-2025,B_69769,biometric
+A_01-03-2025,B_64113,biometric
+A_01-03-2025,B_21686,biometric
+A_01-03-2025,B_27777,biometric
+A_01-03-2025,B_86591,biometric
+A_01-03-2025,B_48152,biometric
+A_01-03-2025,B_33185,biometric
+A_01-03-2025,R_Maharashtra,residence
+A_01-03-2025,B_40684,biometric
+A_01-03-2025,B_12089,biometric
+A_01-03-2025,R_Himachal Pradesh,residence
+A_01-03-2025,B_90061,biometric
+A_01-03-2025,B_75839,biometric
+A_01-03-2025,B_84775,biometric
+A_01-03-2025,B_29751,biometric
+A_01-03-2025,R_Assam,residence
+A_01-03-2025,B_20805,biometric
+A_01-03-2025,R_Uttarakhand,residence
+A_01-03-2025,B_76313,biometric
+A_01-03-2025,R_Madhya Pradesh,residence
+A_01-03-2025,B_52356,biometric
+A_01-03-2025,R_Rajasthan,residence
+A_01-03-2025,B_61338,biometric
+A_01-03-2025,R_Manipur,residence
+A_01-03-2025,B_12348,biometric
+A_01-03-2025,B_39728,biometric
+A_01-03-2025,B_54382,biometric
+A_01-03-2025,R_Goa,residence
+A_01-03-2025,B_36377,biometric
+A_01-03-2025,R_Puducherry,residence
+A_01-03-2025,B_51241,biometric
+A_01-03-2025,R_Punjab,residence
+A_01-03-2025,B_68130,biometric
+A_15-10-2025,R_Maharashtra,residence
+A_15-10-2025,B_69673,biometric
+A_15-10-2025,B_69209,biometric
+A_15-10-2025,B_2897,biometric
+A_15-10-2025,B_93107,biometric
+A_15-10-2025,R_Jharkhand,residence
+A_15-10-2025,B_47650,biometric
+A_15-10-2025,B_13123,biometric
+A_15-10-2025,B_46244,biometric
+A_15-10-2025,B_98268,biometric
+A_15-10-2025,R_Punjab,residence
+A_15-10-2025,B_10355,biometric
+A_15-10-2025,B_48970,biometric
+A_15-10-2025,B_77172,biometric
+A_15-10-2025,R_Sikkim,residence
+A_15-10-2025,B_74977,biometric
+A_15-10-2025,B_19573,biometric
+A_15-10-2025,B_8716,biometric
+A_15-10-2025,R_Madhya Pradesh,residence
+A_15-10-2025,B_15566,biometric
+A_15-10-2025,R_Delhi,residence
+A_15-10-2025,B_68459,biometric
+A_15-10-2025,R_Nagaland,residence
+A_15-10-2025,B_98417,biometric
+A_15-10-2025,R_Rajasthan,residence
+A_15-10-2025,B_17147,biometric
+A_15-10-2025,R_Himachal Pradesh,residence
+A_15-10-2025,B_20296,biometric
+A_15-10-2025,R_Ladakh,residence
+A_15-10-2025,B_9584,biometric
+A_15-10-2025,B_43380,biometric
+A_15-10-2025,R_Goa,residence
+A_15-10-2025,B_42108,biometric
+A_15-10-2025,R_Assam,residence
+A_15-10-2025,B_47674,biometric
+A_15-10-2025,B_80987,biometric
+A_15-10-2025,R_Tripura,residence
+A_15-10-2025,B_56814,biometric
+A_15-10-2025,R_Orissa,residence
+A_15-10-2025,B_78051,biometric
+A_15-10-2025,R_Uttarakhand,residence
+A_15-10-2025,B_3182,biometric
+R_Maharashtra,A_23-12-2025,residence
+R_Maharashtra,A_28-11-2025,residence
+R_Maharashtra,A_01-12-2025,residence
+R_Maharashtra,A_21-10-2025,residence
+R_Maharashtra,A_15-09-2025,residence
+R_Maharashtra,A_09-12-2025,residence
+R_Maharashtra,A_29-12-2025,residence
+R_Maharashtra,A_05-12-2025,residence
+R_Maharashtra,A_14-12-2025,residence
+R_Maharashtra,A_25-10-2025,residence
+R_Maharashtra,A_13-10-2025,residence
+R_Maharashtra,A_03-11-2025,residence
+R_Maharashtra,A_05-11-2025,residence
+R_Maharashtra,A_15-12-2025,residence
+R_Maharashtra,A_24-10-2025,residence
+R_Maharashtra,A_11-12-2025,residence
+R_Maharashtra,A_11-11-2025,residence
+R_Maharashtra,A_08-11-2025,residence
+R_Maharashtra,A_03-12-2025,residence
+R_Maharashtra,A_06-09-2025,residence
+R_Maharashtra,A_03-09-2025,residence
+R_Maharashtra,A_07-12-2025,residence
+R_Maharashtra,A_12-09-2025,residence
+R_Maharashtra,A_20-09-2025,residence
+R_Maharashtra,A_04-12-2025,residence
+R_Maharashtra,A_22-12-2025,residence
+R_Maharashtra,A_31-10-2025,residence
+R_Maharashtra,A_01-11-2025,residence
+R_Maharashtra,A_14-11-2025,residence
+R_Maharashtra,A_07-11-2025,residence
+R_Maharashtra,A_26-12-2025,residence
+R_Maharashtra,A_13-12-2025,residence
+R_Maharashtra,A_05-09-2025,residence
+R_Maharashtra,A_04-11-2025,residence
+R_Maharashtra,A_09-11-2025,residence
+R_Maharashtra,A_08-09-2025,residence
+R_Maharashtra,A_18-09-2025,residence
+R_Maharashtra,A_29-10-2025,residence
+R_Maharashtra,A_07-09-2025,residence
+R_Maharashtra,A_19-10-2025,residence
+R_Maharashtra,A_17-10-2025,residence
+R_Maharashtra,A_10-11-2025,residence
+R_Maharashtra,A_08-12-2025,residence
+R_Maharashtra,A_06-11-2025,residence
+R_Maharashtra,A_28-10-2025,residence
+R_Maharashtra,A_30-10-2025,residence
+R_Maharashtra,A_27-10-2025,residence
+R_Maharashtra,A_21-12-2025,residence
+R_Maharashtra,A_17-11-2025,residence
+R_Maharashtra,A_19-09-2025,residence
+R_Maharashtra,A_20-12-2025,residence
+R_Maharashtra,A_23-10-2025,residence
+R_Maharashtra,A_14-09-2025,residence
+R_Maharashtra,A_18-12-2025,residence
+R_Maharashtra,A_17-09-2025,residence
+R_Maharashtra,A_15-11-2025,residence
+R_Maharashtra,A_01-05-2025,residence
+R_Maharashtra,A_13-11-2025,residence
+R_Maharashtra,A_01-07-2025,residence
+R_Maharashtra,A_02-11-2025,residence
+A_11-12-2025,B_95530,biometric
+A_11-12-2025,B_22965,biometric
+A_11-12-2025,B_92037,biometric
+A_11-12-2025,B_89300,biometric
+A_11-12-2025,B_79510,biometric
+A_11-12-2025,R_Punjab,residence
+A_11-12-2025,B_58854,biometric
+A_11-12-2025,B_99536,biometric
+A_11-12-2025,R_Madhya Pradesh,residence
+A_11-12-2025,B_1287,biometric
+A_11-12-2025,B_39027,biometric
+A_11-12-2025,R_Himachal Pradesh,residence
+A_11-12-2025,B_48913,biometric
+A_11-12-2025,R_Jharkhand,residence
+A_11-12-2025,B_65243,biometric
+A_11-12-2025,R_Pondicherry,residence
+A_11-12-2025,B_11708,biometric
+A_11-12-2025,R_Assam,residence
+A_11-12-2025,B_21535,biometric
+A_11-12-2025,B_14563,biometric
+A_11-12-2025,R_Manipur,residence
+A_11-12-2025,B_53496,biometric
+A_11-12-2025,B_60493,biometric
+A_11-12-2025,B_62834,biometric
+A_11-12-2025,B_98580,biometric
+A_11-12-2025,R_Uttarakhand,residence
+A_11-12-2025,B_66027,biometric
+A_11-12-2025,B_13198,biometric
+A_11-12-2025,R_Rajasthan,residence
+A_11-12-2025,B_20190,biometric
+A_11-12-2025,B_70941,biometric
+A_11-12-2025,R_Arunachal Pradesh,residence
+A_11-12-2025,B_90116,biometric
+A_11-12-2025,B_33437,biometric
+A_11-12-2025,R_Tripura,residence
+A_11-12-2025,B_12395,biometric
+A_11-12-2025,R_Nagaland,residence
+A_11-12-2025,B_70792,biometric
+A_11-12-2025,R_Mizoram,residence
+A_11-12-2025,B_73029,biometric
+A_11-12-2025,R_Orissa,residence
+A_11-12-2025,B_91158,biometric
+A_11-12-2025,B_23730,biometric
+A_11-12-2025,R_Goa,residence
+A_11-12-2025,B_27101,biometric
+A_16-10-2025,B_40464,biometric
+A_16-10-2025,R_Delhi,residence
+A_16-10-2025,B_49586,biometric
+A_16-10-2025,B_90191,biometric
+A_16-10-2025,R_Assam,residence
+A_16-10-2025,B_24420,biometric
+A_16-10-2025,B_3673,biometric
+A_16-10-2025,R_Punjab,residence
+A_16-10-2025,B_7690,biometric
+A_16-10-2025,B_85462,biometric
+A_16-10-2025,B_20712,biometric
+A_16-10-2025,R_Tripura,residence
+A_16-10-2025,B_33560,biometric
+A_16-10-2025,B_53918,biometric
+A_16-10-2025,R_Uttarakhand,residence
+A_16-10-2025,B_14863,biometric
+A_16-10-2025,B_26151,biometric
+A_16-10-2025,R_Orissa,residence
+A_16-10-2025,B_39994,biometric
+A_16-10-2025,R_Rajasthan,residence
+A_16-10-2025,B_898,biometric
+A_16-10-2025,B_92463,biometric
+A_15-09-2025,B_53729,biometric
+A_15-09-2025,B_92966,biometric
+A_15-09-2025,B_69700,biometric
+A_15-09-2025,R_Rajasthan,residence
+A_15-09-2025,B_50954,biometric
+A_15-09-2025,B_13455,biometric
+A_15-09-2025,B_25609,biometric
+A_15-09-2025,B_40135,biometric
+A_15-09-2025,B_54978,biometric
+A_15-09-2025,B_59385,biometric
+A_15-09-2025,B_34545,biometric
+A_15-09-2025,R_Tripura,residence
+A_15-09-2025,B_11287,biometric
+A_15-09-2025,B_22801,biometric
+A_15-09-2025,R_Manipur,residence
+A_15-09-2025,B_28884,biometric
+A_15-09-2025,B_93080,biometric
+A_15-09-2025,B_23793,biometric
+A_15-09-2025,B_70656,biometric
+A_15-09-2025,R_Delhi,residence
+A_15-09-2025,B_99642,biometric
+A_15-09-2025,R_Assam,residence
+A_15-09-2025,B_20427,biometric
+A_15-09-2025,B_98295,biometric
+A_15-09-2025,B_19546,biometric
+A_15-09-2025,R_Arunachal Pradesh,residence
+A_15-09-2025,B_89008,biometric
+A_15-09-2025,R_Uttarakhand,residence
+A_15-09-2025,B_64919,biometric
+A_15-09-2025,R_Jharkhand,residence
+A_15-09-2025,B_20960,biometric
+A_15-09-2025,R_Mizoram,residence
+A_15-09-2025,B_74137,biometric
+A_15-09-2025,R_Punjab,residence
+A_15-09-2025,B_57746,biometric
+A_15-09-2025,R_Himachal Pradesh,residence
+A_15-09-2025,B_47805,biometric
+A_15-09-2025,R_Madhya Pradesh,residence
+A_15-09-2025,B_88876,biometric
+R_Assam,A_30-10-2025,residence
+R_Assam,A_14-11-2025,residence
+R_Assam,A_07-12-2025,residence
+R_Assam,A_08-12-2025,residence
+R_Assam,A_26-12-2025,residence
+R_Assam,A_26-10-2025,residence
+R_Assam,A_25-10-2025,residence
+R_Assam,A_05-09-2025,residence
+R_Assam,A_01-11-2025,residence
+R_Assam,A_17-11-2025,residence
+R_Assam,A_10-11-2025,residence
+R_Assam,A_14-12-2025,residence
+R_Assam,A_01-12-2025,residence
+R_Assam,A_08-09-2025,residence
+R_Assam,A_29-12-2025,residence
+R_Assam,A_31-10-2025,residence
+R_Assam,A_04-11-2025,residence
+R_Assam,A_29-10-2025,residence
+R_Assam,A_11-11-2025,residence
+R_Assam,A_18-09-2025,residence
+R_Assam,A_18-12-2025,residence
+R_Assam,A_02-09-2025,residence
+R_Assam,A_15-11-2025,residence
+R_Assam,A_24-12-2025,residence
+R_Assam,A_23-12-2025,residence
+R_Assam,A_03-11-2025,residence
+R_Assam,A_16-11-2025,residence
+R_Assam,A_03-09-2025,residence
+R_Assam,A_27-10-2025,residence
+R_Assam,A_04-12-2025,residence
+R_Assam,A_06-11-2025,residence
+R_Assam,A_02-11-2025,residence
+R_Assam,A_15-12-2025,residence
+R_Assam,A_06-09-2025,residence
+R_Assam,A_19-09-2025,residence
+R_Assam,A_07-11-2025,residence
+R_Assam,A_05-12-2025,residence
+R_Assam,A_13-11-2025,residence
+R_Assam,A_09-11-2025,residence
+R_Assam,A_14-09-2025,residence
+R_Assam,A_08-11-2025,residence
+R_Assam,A_21-10-2025,residence
+R_Assam,A_24-10-2025,residence
+R_Assam,A_22-12-2025,residence
+R_Assam,A_28-10-2025,residence
+R_Assam,A_13-12-2025,residence
+R_Assam,A_20-09-2025,residence
+R_Assam,A_21-12-2025,residence
+R_Assam,A_17-10-2025,residence
+R_Assam,A_09-12-2025,residence
+R_Assam,A_20-12-2025,residence
+R_Assam,A_03-12-2025,residence
+R_Assam,A_05-11-2025,residence
+A_06-09-2025,B_85816,biometric
+A_06-09-2025,B_14352,biometric
+A_06-09-2025,B_40818,biometric
+A_06-09-2025,B_71447,biometric
+A_06-09-2025,B_47048,biometric
+A_06-09-2025,B_48018,biometric
+A_06-09-2025,B_54272,biometric
+A_06-09-2025,B_22417,biometric
+A_06-09-2025,R_Delhi,residence
+A_06-09-2025,B_49232,biometric
+A_06-09-2025,B_92109,biometric
+A_06-09-2025,R_Jharkhand,residence
+A_06-09-2025,B_70550,biometric
+A_06-09-2025,R_Himachal Pradesh,residence
+A_06-09-2025,B_97395,biometric
+A_06-09-2025,R_Madhya Pradesh,residence
+A_06-09-2025,B_45022,biometric
+A_06-09-2025,B_75368,biometric
+A_06-09-2025,B_47062,biometric
+A_06-09-2025,B_24774,biometric
+A_06-09-2025,R_Punjab,residence
+A_06-09-2025,B_7336,biometric
+A_06-09-2025,R_Uttarakhand,residence
+A_06-09-2025,B_14509,biometric
+A_06-09-2025,B_75248,biometric
+A_06-09-2025,R_Arunachal Pradesh,residence
+A_06-09-2025,B_38598,biometric
+A_04-12-2025,B_99709,biometric
+A_04-12-2025,B_64277,biometric
+A_04-12-2025,B_26175,biometric
+A_04-12-2025,B_96955,biometric
+A_04-12-2025,B_96975,biometric
+A_04-12-2025,B_61705,biometric
+A_04-12-2025,R_Ladakh,residence
+A_04-12-2025,B_60738,biometric
+A_04-12-2025,R_Jharkhand,residence
+A_04-12-2025,B_98295,biometric
+A_04-12-2025,B_39629,biometric
+A_04-12-2025,B_62661,biometric
+A_04-12-2025,R_Arunachal Pradesh,residence
+A_04-12-2025,B_30247,biometric
+A_04-12-2025,B_60725,biometric
+A_04-12-2025,B_65526,biometric
+A_04-12-2025,B_8568,biometric
+A_04-12-2025,R_Rajasthan,residence
+A_04-12-2025,B_68301,biometric
+A_04-12-2025,R_Jammu & Kashmir,residence
+A_04-12-2025,B_64434,biometric
+A_04-12-2025,R_Madhya Pradesh,residence
+A_04-12-2025,B_30379,biometric
+A_04-12-2025,B_7774,biometric
+A_04-12-2025,B_6752,biometric
+A_04-12-2025,B_5800,biometric
+A_04-12-2025,B_57997,biometric
+A_04-12-2025,R_Punjab,residence
+A_04-12-2025,B_61509,biometric
+A_04-12-2025,R_Uttarakhand,residence
+A_04-12-2025,B_54336,biometric
+A_04-12-2025,R_Orissa,residence
+A_04-12-2025,B_29205,biometric
+A_04-12-2025,R_Manipur,residence
+A_04-12-2025,B_66454,biometric
+A_04-12-2025,R_Sikkim,residence
+A_04-12-2025,B_37434,biometric
+A_04-12-2025,R_Himachal Pradesh,residence
+A_04-12-2025,B_71450,biometric
+A_04-12-2025,R_Puducherry,residence
+A_04-12-2025,B_29264,biometric
+A_05-12-2025,B_18707,biometric
+A_05-12-2025,B_98166,biometric
+A_05-12-2025,B_64614,biometric
+A_05-12-2025,B_41185,biometric
+A_05-12-2025,R_Orissa,residence
+A_05-12-2025,B_72992,biometric
+A_05-12-2025,B_74268,biometric
+A_05-12-2025,B_24632,biometric
+A_05-12-2025,R_Jharkhand,residence
+A_05-12-2025,B_26046,biometric
+A_05-12-2025,R_Chandigarh,residence
+A_05-12-2025,B_68501,biometric
+A_05-12-2025,B_72113,biometric
+A_05-12-2025,B_35529,biometric
+A_05-12-2025,R_Rajasthan,residence
+A_05-12-2025,B_43960,biometric
+A_05-12-2025,R_Uttarakhand,residence
+A_05-12-2025,B_70005,biometric
+A_05-12-2025,R_Himachal Pradesh,residence
+A_05-12-2025,B_15237,biometric
+A_05-12-2025,B_18541,biometric
+A_05-12-2025,R_Punjab,residence
+A_05-12-2025,B_37168,biometric
+A_05-12-2025,R_Madhya Pradesh,residence
+A_05-12-2025,B_93962,biometric
+A_05-12-2025,B_91936,biometric
+A_05-12-2025,B_65570,biometric
+A_05-12-2025,R_Tripura,residence
+A_05-12-2025,B_51755,biometric
+A_05-12-2025,B_16567,biometric
+A_05-12-2025,B_57385,biometric
+A_05-12-2025,B_93209,biometric
+A_05-12-2025,R_Goa,residence
+A_05-12-2025,B_31079,biometric
+A_05-12-2025,B_29459,biometric
+A_05-12-2025,R_Mizoram,residence
+A_05-12-2025,B_14437,biometric
+A_05-12-2025,R_Manipur,residence
+A_05-12-2025,B_33970,biometric
+A_05-12-2025,B_63736,biometric
+A_05-12-2025,R_Nagaland,residence
+A_05-12-2025,B_93358,biometric
+A_05-12-2025,R_Pondicherry,residence
+A_05-12-2025,B_75758,biometric
+A_23-12-2025,B_10315,biometric
+A_23-12-2025,B_92160,biometric
+A_23-12-2025,B_88094,biometric
+A_23-12-2025,R_Rajasthan,residence
+A_23-12-2025,B_89385,biometric
+A_23-12-2025,B_40136,biometric
+A_23-12-2025,B_74686,biometric
+A_23-12-2025,B_58529,biometric
+A_23-12-2025,B_26335,biometric
+A_23-12-2025,B_53800,biometric
+A_23-12-2025,B_26933,biometric
+A_23-12-2025,B_1152,biometric
+A_23-12-2025,R_Punjab,residence
+A_23-12-2025,B_28049,biometric
+A_23-12-2025,B_89050,biometric
+A_23-12-2025,R_Jharkhand,residence
+A_23-12-2025,B_34438,biometric
+A_23-12-2025,B_44003,biometric
+A_23-12-2025,R_Uttarakhand,residence
+A_23-12-2025,B_78397,biometric
+A_23-12-2025,B_60886,biometric
+A_23-12-2025,R_Madhya Pradesh,residence
+A_23-12-2025,B_70482,biometric
+A_23-12-2025,R_Himachal Pradesh,residence
+A_23-12-2025,B_18108,biometric
+A_23-12-2025,B_61232,biometric
+A_23-12-2025,B_64242,biometric
+A_23-12-2025,R_Delhi,residence
+A_23-12-2025,B_69945,biometric
+A_23-12-2025,R_Orissa,residence
+A_23-12-2025,B_60353,biometric
+A_23-12-2025,R_Tripura,residence
+A_23-12-2025,B_81590,biometric
+A_23-12-2025,R_Arunachal Pradesh,residence
+A_23-12-2025,B_59311,biometric
+A_07-12-2025,B_29063,biometric
+A_07-12-2025,B_2597,biometric
+A_07-12-2025,B_57599,biometric
+A_07-12-2025,B_61816,biometric
+A_07-12-2025,B_22349,biometric
+A_07-12-2025,R_Madhya Pradesh,residence
+A_07-12-2025,B_69735,biometric
+A_07-12-2025,B_16092,biometric
+A_07-12-2025,B_54844,biometric
+A_07-12-2025,B_60183,biometric
+A_07-12-2025,B_96367,biometric
+A_07-12-2025,B_68167,biometric
+A_07-12-2025,B_69212,biometric
+A_07-12-2025,R_Rajasthan,residence
+A_07-12-2025,B_7657,biometric
+A_07-12-2025,B_58460,biometric
+A_07-12-2025,B_31953,biometric
+A_07-12-2025,B_67682,biometric
+A_07-12-2025,R_Himachal Pradesh,residence
+A_07-12-2025,B_10806,biometric
+A_07-12-2025,B_36754,biometric
+A_07-12-2025,R_Orissa,residence
+A_07-12-2025,B_68561,biometric
+A_07-12-2025,R_Uttarakhand,residence
+A_07-12-2025,B_93692,biometric
+A_07-12-2025,B_52870,biometric
+A_07-12-2025,R_Jharkhand,residence
+A_07-12-2025,B_37651,biometric
+A_07-12-2025,R_Punjab,residence
+A_07-12-2025,B_865,biometric
+A_07-12-2025,R_Tripura,residence
+A_07-12-2025,B_47324,biometric
+A_07-12-2025,R_Goa,residence
+A_07-12-2025,B_32618,biometric
+A_03-11-2025,R_Madhya Pradesh,residence
+A_03-11-2025,B_93023,biometric
+A_03-11-2025,B_17,biometric
+A_03-11-2025,B_34311,biometric
+A_03-11-2025,R_Nagaland,residence
+A_03-11-2025,B_80343,biometric
+A_03-11-2025,B_11181,biometric
+A_03-11-2025,B_5692,biometric
+A_03-11-2025,B_97727,biometric
+A_03-11-2025,R_Jharkhand,residence
+A_03-11-2025,B_60939,biometric
+A_03-11-2025,R_Rajasthan,residence
+A_03-11-2025,B_30945,biometric
+A_03-11-2025,B_95049,biometric
+A_03-11-2025,B_7508,biometric
+A_03-11-2025,B_28170,biometric
+A_03-11-2025,B_29582,biometric
+A_03-11-2025,B_29600,biometric
+A_03-11-2025,B_23369,biometric
+A_03-11-2025,B_62353,biometric
+A_03-11-2025,R_Punjab,residence
+A_03-11-2025,B_59335,biometric
+A_03-11-2025,B_99061,biometric
+A_03-11-2025,R_Tripura,residence
+A_03-11-2025,B_81915,biometric
+A_03-11-2025,R_Orissa,residence
+A_03-11-2025,B_59977,biometric
+A_03-11-2025,B_36572,biometric
+A_03-11-2025,R_Manipur,residence
+A_03-11-2025,B_3810,biometric
+R_Madhya Pradesh,A_03-12-2025,residence
+R_Madhya Pradesh,A_15-12-2025,residence
+R_Madhya Pradesh,A_10-11-2025,residence
+R_Madhya Pradesh,A_18-09-2025,residence
+R_Madhya Pradesh,A_27-10-2025,residence
+R_Madhya Pradesh,A_13-12-2025,residence
+R_Madhya Pradesh,A_29-10-2025,residence
+R_Madhya Pradesh,A_01-04-2025,residence
+R_Madhya Pradesh,A_21-12-2025,residence
+R_Madhya Pradesh,A_20-09-2025,residence
+R_Madhya Pradesh,A_08-12-2025,residence
+R_Madhya Pradesh,A_20-12-2025,residence
+R_Madhya Pradesh,A_08-11-2025,residence
+R_Madhya Pradesh,A_31-10-2025,residence
+R_Madhya Pradesh,A_26-10-2025,residence
+R_Madhya Pradesh,A_26-12-2025,residence
+R_Madhya Pradesh,A_25-10-2025,residence
+R_Madhya Pradesh,A_09-12-2025,residence
+R_Madhya Pradesh,A_08-09-2025,residence
+R_Madhya Pradesh,A_13-10-2025,residence
+R_Madhya Pradesh,A_06-11-2025,residence
+R_Madhya Pradesh,A_03-09-2025,residence
+R_Madhya Pradesh,A_24-10-2025,residence
+R_Madhya Pradesh,A_22-12-2025,residence
+R_Madhya Pradesh,A_19-09-2025,residence
+R_Madhya Pradesh,A_17-10-2025,residence
+R_Madhya Pradesh,A_21-10-2025,residence
+R_Madhya Pradesh,A_14-12-2025,residence
+R_Madhya Pradesh,A_11-11-2025,residence
+R_Madhya Pradesh,A_04-11-2025,residence
+R_Madhya Pradesh,A_07-11-2025,residence
+R_Madhya Pradesh,A_17-11-2025,residence
+R_Madhya Pradesh,A_05-11-2025,residence
+R_Madhya Pradesh,A_23-10-2025,residence
+R_Madhya Pradesh,A_14-11-2025,residence
+R_Madhya Pradesh,A_28-10-2025,residence
+R_Madhya Pradesh,A_09-11-2025,residence
+R_Madhya Pradesh,A_13-11-2025,residence
+R_Madhya Pradesh,A_07-09-2025,residence
+R_Madhya Pradesh,A_12-09-2025,residence
+R_Madhya Pradesh,A_01-06-2025,residence
+R_Madhya Pradesh,A_19-10-2025,residence
+R_Madhya Pradesh,A_15-11-2025,residence
+R_Madhya Pradesh,A_01-12-2025,residence
+R_Madhya Pradesh,A_29-12-2025,residence
+R_Madhya Pradesh,A_01-05-2025,residence
+R_Madhya Pradesh,A_01-11-2025,residence
+R_Madhya Pradesh,A_30-10-2025,residence
+R_Madhya Pradesh,A_14-09-2025,residence
+R_Madhya Pradesh,A_28-11-2025,residence
+R_Madhya Pradesh,A_18-12-2025,residence
+R_Madhya Pradesh,A_17-09-2025,residence
+R_Madhya Pradesh,A_05-09-2025,residence
+A_19-09-2025,B_84136,biometric
+A_19-09-2025,R_Rajasthan,residence
+A_19-09-2025,B_6953,biometric
+A_19-09-2025,B_69610,biometric
+A_19-09-2025,B_69454,biometric
+A_19-09-2025,R_Delhi,residence
+A_19-09-2025,B_55641,biometric
+A_19-09-2025,R_Himachal Pradesh,residence
+A_19-09-2025,B_35676,biometric
+A_19-09-2025,B_9728,biometric
+A_19-09-2025,B_44875,biometric
+A_19-09-2025,B_42849,biometric
+A_19-09-2025,B_13701,biometric
+A_19-09-2025,B_79407,biometric
+A_19-09-2025,B_35625,biometric
+A_19-09-2025,B_18365,biometric
+A_19-09-2025,B_67794,biometric
+A_19-09-2025,B_14657,biometric
+A_19-09-2025,B_14529,biometric
+A_19-09-2025,R_Punjab,residence
+A_19-09-2025,B_13745,biometric
+A_19-09-2025,R_Uttarakhand,residence
+A_19-09-2025,B_20918,biometric
+A_19-09-2025,R_Mizoram,residence
+A_19-09-2025,B_18138,biometric
+A_24-10-2025,B_88433,biometric
+A_24-10-2025,B_1769,biometric
+A_24-10-2025,B_813,biometric
+A_24-10-2025,B_91167,biometric
+A_24-10-2025,B_22616,biometric
+A_24-10-2025,B_71248,biometric
+A_24-10-2025,B_55737,biometric
+A_24-10-2025,B_27417,biometric
+A_24-10-2025,R_Orissa,residence
+A_24-10-2025,B_9191,biometric
+A_24-10-2025,B_56722,biometric
+A_24-10-2025,R_Rajasthan,residence
+A_24-10-2025,B_19841,biometric
+A_24-10-2025,B_61967,biometric
+A_24-10-2025,B_54906,biometric
+A_24-10-2025,B_57763,biometric
+A_24-10-2025,R_Jharkhand,residence
+A_24-10-2025,B_89847,biometric
+A_24-10-2025,B_66519,biometric
+A_24-10-2025,R_Lakshadweep,residence
+A_24-10-2025,B_17408,biometric
+A_24-10-2025,B_89314,biometric
+A_24-10-2025,R_Uttarakhand,residence
+A_24-10-2025,B_33806,biometric
+A_24-10-2025,R_Himachal Pradesh,residence
+A_24-10-2025,B_48564,biometric
+A_24-10-2025,R_Nagaland,residence
+A_24-10-2025,B_29557,biometric
+A_24-10-2025,R_Punjab,residence
+A_24-10-2025,B_26633,biometric
+A_24-10-2025,B_48513,biometric
+A_02-11-2025,B_50197,biometric
+A_02-11-2025,B_40400,biometric
+A_02-11-2025,B_34744,biometric
+A_02-11-2025,B_96184,biometric
+A_02-11-2025,B_52013,biometric
+A_02-11-2025,B_5150,biometric
+A_02-11-2025,B_35671,biometric
+A_02-11-2025,B_1442,biometric
+A_02-11-2025,B_82730,biometric
+A_02-11-2025,R_Rajasthan,residence
+A_02-11-2025,B_68031,biometric
+A_02-11-2025,B_6106,biometric
+R_Rajasthan,A_10-11-2025,residence
+R_Rajasthan,A_03-09-2025,residence
+R_Rajasthan,A_26-12-2025,residence
+R_Rajasthan,A_14-12-2025,residence
+R_Rajasthan,A_20-12-2025,residence
+R_Rajasthan,A_15-11-2025,residence
+R_Rajasthan,A_09-12-2025,residence
+R_Rajasthan,A_25-10-2025,residence
+R_Rajasthan,A_18-09-2025,residence
+R_Rajasthan,A_20-09-2025,residence
+R_Rajasthan,A_08-12-2025,residence
+R_Rajasthan,A_04-11-2025,residence
+R_Rajasthan,A_03-12-2025,residence
+R_Rajasthan,A_08-11-2025,residence
+R_Rajasthan,A_07-09-2025,residence
+R_Rajasthan,A_12-09-2025,residence
+R_Rajasthan,A_19-10-2025,residence
+R_Rajasthan,A_11-11-2025,residence
+R_Rajasthan,A_31-10-2025,residence
+R_Rajasthan,A_21-12-2025,residence
+R_Rajasthan,A_01-11-2025,residence
+R_Rajasthan,A_27-10-2025,residence
+R_Rajasthan,A_05-11-2025,residence
+R_Rajasthan,A_22-12-2025,residence
+R_Rajasthan,A_08-09-2025,residence
+R_Rajasthan,A_23-10-2025,residence
+R_Rajasthan,A_06-11-2025,residence
+R_Rajasthan,A_21-10-2025,residence
+R_Rajasthan,A_17-09-2025,residence
+R_Rajasthan,A_09-11-2025,residence
+R_Rajasthan,A_07-11-2025,residence
+R_Rajasthan,A_29-12-2025,residence
+R_Rajasthan,A_13-12-2025,residence
+R_Rajasthan,A_05-09-2025,residence
+R_Rajasthan,A_15-12-2025,residence
+R_Rajasthan,A_28-10-2025,residence
+R_Rajasthan,A_01-12-2025,residence
+R_Rajasthan,A_17-11-2025,residence
+R_Rajasthan,A_29-10-2025,residence
+R_Rajasthan,A_28-11-2025,residence
+R_Rajasthan,A_16-11-2025,residence
+R_Rajasthan,A_30-10-2025,residence
+R_Rajasthan,A_13-10-2025,residence
+R_Rajasthan,A_17-10-2025,residence
+R_Rajasthan,A_18-12-2025,residence
+R_Rajasthan,A_13-11-2025,residence
+R_Rajasthan,A_01-04-2025,residence
+R_Rajasthan,A_01-07-2025,residence
+R_Rajasthan,A_26-10-2025,residence
+A_25-10-2025,B_74595,biometric
+A_25-10-2025,R_Punjab,residence
+A_25-10-2025,B_44667,biometric
+A_25-10-2025,B_27385,biometric
+A_25-10-2025,B_41899,biometric
+A_25-10-2025,B_14651,biometric
+A_25-10-2025,B_8778,biometric
+A_25-10-2025,B_7348,biometric
+A_25-10-2025,B_6003,biometric
+A_25-10-2025,B_57919,biometric
+A_25-10-2025,B_43925,biometric
+A_25-10-2025,R_Uttarakhand,residence
+A_25-10-2025,B_51840,biometric
+A_25-10-2025,B_85086,biometric
+A_25-10-2025,B_77850,biometric
+A_25-10-2025,R_Orissa,residence
+A_25-10-2025,B_76971,biometric
+A_25-10-2025,R_Sikkim,residence
+A_25-10-2025,B_19955,biometric
+A_25-10-2025,B_3487,biometric
+A_25-10-2025,R_Jharkhand,residence
+A_25-10-2025,B_7881,biometric
+A_25-10-2025,R_Tripura,residence
+A_25-10-2025,B_98208,biometric
+A_14-12-2025,B_31354,biometric
+A_14-12-2025,B_19097,biometric
+A_14-12-2025,B_83378,biometric
+A_14-12-2025,B_52450,biometric
+A_14-12-2025,B_78614,biometric
+A_14-12-2025,B_20906,biometric
+A_14-12-2025,B_65904,biometric
+A_14-12-2025,B_96876,biometric
+A_14-12-2025,B_12475,biometric
+A_14-12-2025,B_18151,biometric
+A_14-12-2025,R_Goa,residence
+A_14-12-2025,B_87514,biometric
+A_14-12-2025,B_81948,biometric
+A_14-12-2025,B_97832,biometric
+A_14-12-2025,R_Orissa,residence
+A_14-12-2025,B_51571,biometric
+A_14-12-2025,B_2421,biometric
+A_14-12-2025,B_61700,biometric
+A_14-12-2025,R_Dadra and Nagar Haveli and Daman and Diu,residence
+A_14-12-2025,B_16990,biometric
+A_14-12-2025,R_Punjab,residence
+A_14-12-2025,B_19267,biometric
+A_14-12-2025,B_52785,biometric
+A_14-12-2025,R_Pondicherry,residence
+A_14-12-2025,B_51295,biometric
+A_14-12-2025,R_Uttarakhand,residence
+A_14-12-2025,B_69615,biometric
+A_14-12-2025,R_Nagaland,residence
+A_14-12-2025,B_25620,biometric
+A_14-12-2025,R_Arunachal Pradesh,residence
+A_14-12-2025,B_50529,biometric
+A_14-12-2025,B_35117,biometric
+A_14-12-2025,B_73024,biometric
+A_12-09-2025,B_65612,biometric
+A_12-09-2025,B_35725,biometric
+A_12-09-2025,B_65290,biometric
+A_12-09-2025,B_79816,biometric
+A_12-09-2025,B_81632,biometric
+A_12-09-2025,B_38412,biometric
+A_12-09-2025,R_Jharkhand,residence
+A_12-09-2025,B_25231,biometric
+A_12-09-2025,B_26645,biometric
+A_12-09-2025,R_Punjab,residence
+A_12-09-2025,B_31620,biometric
+A_12-09-2025,B_66565,biometric
+A_12-09-2025,R_Himachal Pradesh,residence
+A_12-09-2025,B_98386,biometric
+A_12-09-2025,R_Tripura,residence
+A_12-09-2025,B_46207,biometric
+A_12-09-2025,B_34769,biometric
+A_12-09-2025,B_35637,biometric
+A_12-09-2025,R_Sikkim,residence
+A_12-09-2025,B_64370,biometric
+A_12-09-2025,R_Uttarakhand,residence
+A_12-09-2025,B_81272,biometric
+A_12-09-2025,B_53111,biometric
+A_12-09-2025,R_Ladakh,residence
+A_12-09-2025,B_87674,biometric
+A_12-09-2025,B_57315,biometric
+A_12-09-2025,B_32736,biometric
+A_16-11-2025,B_84124,biometric
+A_16-11-2025,B_49571,biometric
+A_16-11-2025,B_55227,biometric
+A_16-11-2025,B_72004,biometric
+A_16-11-2025,B_32749,biometric
+A_16-11-2025,B_34565,biometric
+A_16-11-2025,R_Punjab,residence
+A_16-11-2025,B_51210,biometric
+A_16-11-2025,B_2525,biometric
+A_16-11-2025,B_11471,biometric
+A_16-11-2025,R_Goa,residence
+A_16-11-2025,B_82963,biometric
+A_16-11-2025,R_Uttarakhand,residence
+A_16-11-2025,B_55963,biometric
+A_16-11-2025,R_Jharkhand,residence
+A_16-11-2025,B_12004,biometric
+A_16-11-2025,B_86155,biometric
+A_16-11-2025,R_Puducherry,residence
+A_16-11-2025,B_81035,biometric
+A_16-11-2025,B_58002,biometric
+A_16-11-2025,B_44365,biometric
+A_16-11-2025,R_Tripura,residence
+A_16-11-2025,B_65797,biometric
+A_16-11-2025,B_89410,biometric
+A_16-11-2025,B_8115,biometric
+A_16-11-2025,B_4499,biometric
+A_16-11-2025,R_Orissa,residence
+A_16-11-2025,B_87034,biometric
+A_16-11-2025,R_Himachal Pradesh,residence
+A_16-11-2025,B_29279,biometric
+A_08-12-2025,B_13785,biometric
+A_08-12-2025,B_22378,biometric
+A_08-12-2025,B_96311,biometric
+A_08-12-2025,B_19441,biometric
+A_08-12-2025,B_84191,biometric
+A_08-12-2025,B_80483,biometric
+A_08-12-2025,B_20562,biometric
+A_08-12-2025,B_77223,biometric
+A_08-12-2025,B_38239,biometric
+A_08-12-2025,B_7893,biometric
+A_08-12-2025,B_11010,biometric
+A_08-12-2025,B_14712,biometric
+A_08-12-2025,R_Uttarakhand,residence
+A_08-12-2025,B_31850,biometric
+A_08-12-2025,B_85147,biometric
+A_08-12-2025,R_Himachal Pradesh,residence
+A_08-12-2025,B_17092,biometric
+A_08-12-2025,R_Punjab,residence
+A_08-12-2025,B_17802,biometric
+A_08-12-2025,R_Tripura,residence
+A_08-12-2025,B_96785,biometric
+A_08-12-2025,B_46906,biometric
+A_08-12-2025,B_74489,biometric
+A_08-12-2025,R_Jharkhand,residence
+A_08-12-2025,B_75809,biometric
+A_08-12-2025,R_Goa,residence
+A_08-12-2025,B_86049,biometric
+A_08-12-2025,R_Delhi,residence
+A_08-12-2025,B_97127,biometric
+A_08-12-2025,B_82857,biometric
+A_08-12-2025,B_16686,biometric
+A_08-12-2025,R_Orissa,residence
+A_08-12-2025,B_74847,biometric
+A_08-12-2025,R_Manipur,residence
+A_08-12-2025,B_88940,biometric
+A_08-12-2025,R_Puducherry,residence
+A_08-12-2025,B_93222,biometric
+A_08-12-2025,R_Arunachal Pradesh,residence
+A_08-12-2025,B_49064,biometric
+A_01-12-2025,B_11777,biometric
+A_01-12-2025,B_91225,biometric
+A_01-12-2025,B_1276,biometric
+A_01-12-2025,B_40319,biometric
+A_01-12-2025,B_87970,biometric
+A_01-12-2025,R_Himachal Pradesh,residence
+A_01-12-2025,B_48101,biometric
+A_01-12-2025,B_61504,biometric
+A_01-12-2025,B_55274,biometric
+A_01-12-2025,B_13751,biometric
+A_01-12-2025,B_29871,biometric
+A_01-12-2025,R_Jharkhand,residence
+A_01-12-2025,B_21256,biometric
+A_01-12-2025,B_22153,biometric
+A_01-12-2025,B_23497,biometric
+A_01-12-2025,B_20723,biometric
+A_01-12-2025,B_24542,biometric
+A_01-12-2025,R_Goa,residence
+A_01-12-2025,B_73711,biometric
+A_01-12-2025,B_34249,biometric
+A_01-12-2025,B_57185,biometric
+A_01-12-2025,B_57300,biometric
+A_01-12-2025,B_48750,biometric
+A_01-12-2025,B_2232,biometric
+A_01-12-2025,R_Puducherry,residence
+A_01-12-2025,B_58415,biometric
+A_01-12-2025,R_Orissa,residence
+A_01-12-2025,B_9654,biometric
+A_01-12-2025,R_Sikkim,residence
+A_01-12-2025,B_6580,biometric
+A_01-12-2025,R_Uttarakhand,residence
+A_01-12-2025,B_65215,biometric
+A_11-11-2025,B_54138,biometric
+A_11-11-2025,B_9140,biometric
+A_11-11-2025,B_8642,biometric
+A_11-11-2025,B_46883,biometric
+A_11-11-2025,B_9598,biometric
+A_11-11-2025,B_40684,biometric
+A_11-11-2025,B_80004,biometric
+A_11-11-2025,B_30863,biometric
+A_11-11-2025,R_Punjab,residence
+A_11-11-2025,B_7501,biometric
+A_11-11-2025,B_79077,biometric
+A_11-11-2025,B_68837,biometric
+A_11-11-2025,B_81434,biometric
+A_11-11-2025,R_Himachal Pradesh,residence
+A_11-11-2025,B_40735,biometric
+A_11-11-2025,B_49934,biometric
+A_11-11-2025,B_6385,biometric
+A_11-11-2025,B_80604,biometric
+A_11-11-2025,B_64551,biometric
+A_11-11-2025,R_Orissa,residence
+A_11-11-2025,B_17020,biometric
+A_11-11-2025,B_19588,biometric
+A_11-11-2025,B_31908,biometric
+A_27-10-2025,B_90399,biometric
+A_27-10-2025,B_3068,biometric
+A_27-10-2025,B_33738,biometric
+A_27-10-2025,R_Jharkhand,residence
+A_27-10-2025,B_35152,biometric
+A_27-10-2025,B_67921,biometric
+A_27-10-2025,B_23969,biometric
+A_27-10-2025,B_44344,biometric
+A_27-10-2025,B_82446,biometric
+A_27-10-2025,B_65146,biometric
+A_27-10-2025,B_55508,biometric
+A_27-10-2025,R_Delhi,residence
+A_27-10-2025,B_13834,biometric
+A_27-10-2025,B_16997,biometric
+A_27-10-2025,R_Himachal Pradesh,residence
+A_27-10-2025,B_61997,biometric
+A_27-10-2025,B_36993,biometric
+A_27-10-2025,B_21214,biometric
+A_27-10-2025,B_88583,biometric
+A_27-10-2025,R_Goa,residence
+A_27-10-2025,B_40185,biometric
+A_27-10-2025,B_72722,biometric
+A_27-10-2025,R_Punjab,residence
+A_27-10-2025,B_71938,biometric
+A_27-10-2025,B_56464,biometric
+A_27-10-2025,B_25943,biometric
+A_27-10-2025,R_Manipur,residence
+A_27-10-2025,B_43076,biometric
+A_28-10-2025,B_92158,biometric
+A_28-10-2025,B_53228,biometric
+A_28-10-2025,B_65348,biometric
+A_28-10-2025,R_Jharkhand,residence
+A_28-10-2025,B_58140,biometric
+A_28-10-2025,R_Goa,residence
+A_28-10-2025,B_31618,biometric
+A_28-10-2025,R_Manipur,residence
+A_28-10-2025,B_60599,biometric
+A_28-10-2025,B_63838,biometric
+A_28-10-2025,B_50635,biometric
+A_28-10-2025,R_Punjab,residence
+A_28-10-2025,B_51751,biometric
+A_28-10-2025,B_35608,biometric
+A_28-10-2025,B_86613,biometric
+A_28-10-2025,B_66682,biometric
+A_28-10-2025,B_35754,biometric
+A_28-10-2025,B_24854,biometric
+A_28-10-2025,R_Himachal Pradesh,residence
+A_28-10-2025,B_84985,biometric
+A_28-10-2025,B_94184,biometric
+A_28-10-2025,B_34827,biometric
+A_28-10-2025,R_Delhi,residence
+A_28-10-2025,B_36822,biometric
+A_28-10-2025,B_38529,biometric
+A_28-10-2025,B_37184,biometric
+A_28-10-2025,R_Nagaland,residence
+A_28-10-2025,B_6864,biometric
+A_28-10-2025,R_Puducherry,residence
+A_28-10-2025,B_56317,biometric
+A_28-10-2025,B_30098,biometric
+A_02-09-2025,B_94387,biometric
+A_02-09-2025,B_87936,biometric
+A_02-09-2025,B_89586,biometric
+A_02-09-2025,B_89752,biometric
+A_02-09-2025,B_28937,biometric
+A_02-09-2025,B_49312,biometric
+A_02-09-2025,B_52067,biometric
+A_02-09-2025,B_47338,biometric
+A_02-09-2025,B_55403,biometric
+A_02-09-2025,B_38507,biometric
+A_02-09-2025,B_58137,biometric
+A_02-09-2025,B_34799,biometric
+A_02-09-2025,R_Himachal Pradesh,residence
+A_02-09-2025,B_15534,biometric
+A_02-09-2025,R_Uttarakhand,residence
+A_02-09-2025,B_776,biometric
+A_02-09-2025,R_Jharkhand,residence
+A_02-09-2025,B_56817,biometric
+A_01-06-2025,B_64690,biometric
+A_01-06-2025,B_48829,biometric
+A_01-06-2025,B_72441,biometric
+A_01-06-2025,B_68237,biometric
+A_01-06-2025,B_50763,biometric
+A_13-12-2025,B_45991,biometric
+A_13-12-2025,B_15423,biometric
+A_13-12-2025,B_76661,biometric
+A_13-12-2025,B_60470,biometric
+A_13-12-2025,B_49327,biometric
+A_13-12-2025,B_46266,biometric
+A_13-12-2025,B_72457,biometric
+A_13-12-2025,B_16379,biometric
+A_13-12-2025,B_7007,biometric
+A_13-12-2025,B_52082,biometric
+A_13-12-2025,B_57758,biometric
+A_13-12-2025,R_Arunachal Pradesh,residence
+A_13-12-2025,B_80296,biometric
+A_13-12-2025,B_62286,biometric
+A_13-12-2025,R_Goa,residence
+A_13-12-2025,B_82719,biometric
+A_13-12-2025,B_11715,biometric
+A_13-12-2025,B_54983,biometric
+A_13-12-2025,R_Andaman and Nicobar Islands,residence
+A_13-12-2025,B_6776,biometric
+A_13-12-2025,R_Delhi,residence
+A_13-12-2025,B_65895,biometric
+A_13-12-2025,R_Himachal Pradesh,residence
+A_13-12-2025,B_17732,biometric
+A_13-12-2025,B_85911,biometric
+A_20-09-2025,B_36021,biometric
+A_20-09-2025,B_9712,biometric
+A_20-09-2025,B_82378,biometric
+A_20-09-2025,B_81176,biometric
+A_20-09-2025,B_8070,biometric
+A_20-09-2025,B_44456,biometric
+A_20-09-2025,B_15782,biometric
+A_20-09-2025,B_4983,biometric
+A_20-09-2025,B_30291,biometric
+A_20-09-2025,B_15359,biometric
+A_20-09-2025,R_Jharkhand,residence
+A_20-09-2025,B_14462,biometric
+A_20-09-2025,R_Uttarakhand,residence
+A_20-09-2025,B_58421,biometric
+A_20-09-2025,B_9026,biometric
+A_20-09-2025,B_48480,biometric
+A_20-09-2025,B_6957,biometric
+A_20-09-2025,B_96906,biometric
+A_20-09-2025,R_Delhi,residence
+A_20-09-2025,B_93144,biometric
+A_20-09-2025,R_Punjab,residence
+A_20-09-2025,B_51248,biometric
+A_20-09-2025,B_13929,biometric
+A_20-09-2025,R_Himachal Pradesh,residence
+A_20-09-2025,B_41307,biometric
+A_30-10-2025,B_93237,biometric
+A_30-10-2025,R_Punjab,residence
+A_30-10-2025,B_95698,biometric
+A_30-10-2025,B_68801,biometric
+A_30-10-2025,B_7785,biometric
+A_30-10-2025,B_91807,biometric
+A_30-10-2025,B_21401,biometric
+A_30-10-2025,B_74538,biometric
+A_30-10-2025,B_9281,biometric
+A_30-10-2025,B_28881,biometric
+A_30-10-2025,R_Orissa,residence
+A_30-10-2025,B_28823,biometric
+A_30-10-2025,B_94582,biometric
+A_30-10-2025,R_Himachal Pradesh,residence
+A_30-10-2025,B_28932,biometric
+A_30-10-2025,R_Chandigarh,residence
+A_30-10-2025,B_32493,biometric
+A_30-10-2025,B_20445,biometric
+A_30-10-2025,B_36105,biometric
+A_30-10-2025,R_Jharkhand,residence
+A_30-10-2025,B_70215,biometric
+A_30-10-2025,R_Uttarakhand,residence
+A_30-10-2025,B_46046,biometric
+A_30-10-2025,B_23646,biometric
+A_30-10-2025,B_90880,biometric
+A_30-10-2025,B_86151,biometric
+A_30-10-2025,B_3407,biometric
+A_30-10-2025,B_38131,biometric
+A_30-10-2025,R_Tripura,residence
+A_30-10-2025,B_49239,biometric
+A_30-10-2025,R_Puducherry,residence
+A_30-10-2025,B_12370,biometric
+R_Punjab,A_01-11-2025,residence
+R_Punjab,A_08-11-2025,residence
+R_Punjab,A_17-10-2025,residence
+R_Punjab,A_18-09-2025,residence
+R_Punjab,A_29-12-2025,residence
+R_Punjab,A_03-12-2025,residence
+R_Punjab,A_31-10-2025,residence
+R_Punjab,A_20-12-2025,residence
+R_Punjab,A_22-12-2025,residence
+R_Punjab,A_15-11-2025,residence
+R_Punjab,A_17-09-2025,residence
+R_Punjab,A_13-10-2025,residence
+R_Punjab,A_21-10-2025,residence
+R_Punjab,A_26-12-2025,residence
+R_Punjab,A_28-11-2025,residence
+R_Punjab,A_03-09-2025,residence
+R_Punjab,A_06-11-2025,residence
+R_Punjab,A_17-11-2025,residence
+R_Punjab,A_10-11-2025,residence
+R_Punjab,A_14-09-2025,residence
+R_Punjab,A_15-12-2025,residence
+R_Punjab,A_19-10-2025,residence
+R_Punjab,A_29-10-2025,residence
+R_Punjab,A_21-12-2025,residence
+R_Punjab,A_18-12-2025,residence
+R_Punjab,A_07-11-2025,residence
+R_Punjab,A_23-10-2025,residence
+R_Punjab,A_09-12-2025,residence
+R_Punjab,A_04-11-2025,residence
+R_Punjab,A_05-11-2025,residence
+A_28-11-2025,B_4583,biometric
+A_28-11-2025,B_17638,biometric
+A_28-11-2025,B_18683,biometric
+A_28-11-2025,B_57787,biometric
+A_28-11-2025,B_29251,biometric
+A_28-11-2025,B_61133,biometric
+A_28-11-2025,B_97707,biometric
+A_28-11-2025,R_Jharkhand,residence
+A_28-11-2025,B_27115,biometric
+A_28-11-2025,B_20726,biometric
+A_28-11-2025,R_Goa,residence
+A_28-11-2025,B_62643,biometric
+A_28-11-2025,B_64501,biometric
+A_28-11-2025,B_13934,biometric
+A_28-11-2025,B_19610,biometric
+A_28-11-2025,B_95031,biometric
+A_28-11-2025,R_Pondicherry,residence
+A_28-11-2025,B_6661,biometric
+A_28-11-2025,R_Sikkim,residence
+A_28-11-2025,B_56104,biometric
+A_21-10-2025,B_84197,biometric
+A_21-10-2025,B_61976,biometric
+A_21-10-2025,B_94574,biometric
+A_21-10-2025,B_55806,biometric
+A_21-10-2025,B_53051,biometric
+A_21-10-2025,B_30525,biometric
+A_21-10-2025,B_2658,biometric
+A_21-10-2025,B_96600,biometric
+A_21-10-2025,B_58678,biometric
+A_21-10-2025,B_61453,biometric
+A_21-10-2025,B_27270,biometric
+A_21-10-2025,R_Himachal Pradesh,residence
+A_21-10-2025,B_87401,biometric
+A_21-10-2025,B_94949,biometric
+A_21-10-2025,B_60023,biometric
+A_21-10-2025,B_50812,biometric
+A_21-10-2025,R_Jharkhand,residence
+A_21-10-2025,B_60556,biometric
+A_21-10-2025,B_32411,biometric
+A_21-10-2025,R_Manipur,residence
+A_21-10-2025,B_36608,biometric
+A_18-09-2025,B_94999,biometric
+A_18-09-2025,B_33983,biometric
+A_18-09-2025,B_32781,biometric
+A_18-09-2025,B_6166,biometric
+A_18-09-2025,B_87705,biometric
+A_18-09-2025,B_13878,biometric
+A_18-09-2025,B_73903,biometric
+A_18-09-2025,R_Jharkhand,residence
+A_18-09-2025,B_697,biometric
+A_18-09-2025,B_28387,biometric
+A_18-09-2025,B_8202,biometric
+A_18-09-2025,B_55595,biometric
+A_18-09-2025,B_66679,biometric
+A_18-09-2025,B_52239,biometric
+A_18-09-2025,B_5447,biometric
+A_18-09-2025,B_27431,biometric
+A_18-09-2025,B_60449,biometric
+A_18-09-2025,R_Arunachal Pradesh,residence
+A_18-09-2025,B_32649,biometric
+A_18-09-2025,R_Pondicherry,residence
+A_18-09-2025,B_82857,biometric
+A_18-09-2025,R_Orissa,residence
+A_18-09-2025,B_20009,biometric
+A_18-09-2025,B_5121,biometric
+A_18-09-2025,R_Delhi,residence
+A_18-09-2025,B_22015,biometric
+A_15-11-2025,B_42631,biometric
+A_15-11-2025,B_39856,biometric
+A_15-11-2025,R_Jharkhand,residence
+A_15-11-2025,B_41754,biometric
+A_15-11-2025,B_46648,biometric
+A_15-11-2025,B_63293,biometric
+A_15-11-2025,B_49259,biometric
+A_15-11-2025,B_69634,biometric
+A_15-11-2025,B_43168,biometric
+A_15-11-2025,B_42287,biometric
+A_15-11-2025,B_65109,biometric
+A_15-11-2025,B_4064,biometric
+A_15-11-2025,B_18246,biometric
+A_15-11-2025,B_3329,biometric
+A_15-11-2025,B_51233,biometric
+A_15-11-2025,R_Manipur,residence
+A_15-11-2025,B_33830,biometric
+A_15-11-2025,B_7736,biometric
+A_15-11-2025,B_54357,biometric
+A_15-11-2025,B_90607,biometric
+A_15-11-2025,B_73838,biometric
+A_15-11-2025,R_Tripura,residence
+A_15-11-2025,B_189,biometric
+A_15-11-2025,B_19202,biometric
+A_15-11-2025,R_Goa,residence
+A_15-11-2025,B_36721,biometric
+A_15-11-2025,R_Orissa,residence
+A_15-11-2025,B_78952,biometric
+A_03-12-2025,B_78786,biometric
+A_03-12-2025,B_42835,biometric
+A_03-12-2025,B_11964,biometric
+A_03-12-2025,B_9714,biometric
+A_03-12-2025,B_54397,biometric
+A_03-12-2025,B_10641,biometric
+A_03-12-2025,B_81076,biometric
+A_03-12-2025,R_Himachal Pradesh,residence
+A_03-12-2025,B_21163,biometric
+A_03-12-2025,B_92240,biometric
+A_03-12-2025,B_80120,biometric
+A_03-12-2025,B_26449,biometric
+A_03-12-2025,B_6939,biometric
+A_03-12-2025,B_24633,biometric
+A_03-12-2025,B_81294,biometric
+A_03-12-2025,R_Jharkhand,residence
+A_03-12-2025,B_20120,biometric
+A_03-12-2025,R_Delhi,residence
+A_03-12-2025,B_69326,biometric
+A_03-12-2025,R_Andaman and Nicobar Islands,residence
+A_03-12-2025,B_57921,biometric
+A_03-12-2025,R_Tripura,residence
+A_03-12-2025,B_856,biometric
+A_03-12-2025,B_15370,biometric
+A_03-12-2025,R_Arunachal Pradesh,residence
+A_03-12-2025,B_76865,biometric
+A_03-12-2025,R_Uttarakhand,residence
+A_03-12-2025,B_4049,biometric
+A_03-12-2025,B_55513,biometric
+A_03-12-2025,R_Nagaland,residence
+A_03-12-2025,B_99284,biometric
+A_03-12-2025,B_46688,biometric
+A_03-12-2025,B_8284,biometric
+A_03-12-2025,R_Mizoram,residence
+A_03-12-2025,B_8511,biometric
+A_03-12-2025,B_42310,biometric
+A_01-11-2025,B_82817,biometric
+A_01-11-2025,B_33465,biometric
+A_01-11-2025,R_Orissa,residence
+A_01-11-2025,B_53007,biometric
+A_01-11-2025,B_99462,biometric
+A_01-11-2025,B_9474,biometric
+A_01-11-2025,B_6118,biometric
+A_01-11-2025,B_44629,biometric
+A_01-11-2025,B_13090,biometric
+A_01-11-2025,B_98722,biometric
+A_01-11-2025,B_84456,biometric
+A_01-11-2025,B_47872,biometric
+A_01-11-2025,B_76025,biometric
+A_01-11-2025,R_Uttarakhand,residence
+A_01-11-2025,B_89990,biometric
+A_01-11-2025,B_11921,biometric
+A_01-11-2025,B_44617,biometric
+A_01-11-2025,B_73224,biometric
+A_01-11-2025,R_Goa,residence
+A_01-11-2025,B_51064,biometric
+A_01-11-2025,B_78800,biometric
+A_01-11-2025,B_45585,biometric
+A_01-11-2025,B_13947,biometric
+A_01-11-2025,R_Himachal Pradesh,residence
+A_01-11-2025,B_72876,biometric
+A_01-11-2025,R_Nagaland,residence
+A_01-11-2025,B_26627,biometric
+A_01-11-2025,R_Jharkhand,residence
+A_01-11-2025,B_46031,biometric
+A_01-11-2025,R_Tripura,residence
+A_01-11-2025,B_31770,biometric
+A_10-11-2025,B_98361,biometric
+A_10-11-2025,B_69264,biometric
+A_10-11-2025,B_88167,biometric
+A_10-11-2025,B_67456,biometric
+A_10-11-2025,B_50780,biometric
+A_10-11-2025,B_96083,biometric
+A_10-11-2025,B_17092,biometric
+A_10-11-2025,R_Uttarakhand,residence
+A_10-11-2025,B_12124,biometric
+A_10-11-2025,B_209,biometric
+A_10-11-2025,B_73001,biometric
+A_10-11-2025,R_Jharkhand,residence
+A_10-11-2025,B_56083,biometric
+A_10-11-2025,B_34760,biometric
+A_10-11-2025,B_91263,biometric
+A_10-11-2025,B_15835,biometric
+A_10-11-2025,B_62472,biometric
+A_10-11-2025,B_49735,biometric
+A_10-11-2025,R_Delhi,residence
+A_10-11-2025,B_20576,biometric
+A_10-11-2025,B_29289,biometric
+A_10-11-2025,R_Lakshadweep,residence
+A_10-11-2025,B_88278,biometric
+A_10-11-2025,R_Himachal Pradesh,residence
+A_10-11-2025,B_72413,biometric
+A_10-11-2025,R_Sikkim,residence
+A_10-11-2025,B_27094,biometric
+A_10-11-2025,B_96853,biometric
+A_15-12-2025,B_43232,biometric
+A_15-12-2025,B_29100,biometric
+A_15-12-2025,B_41769,biometric
+A_15-12-2025,B_75457,biometric
+A_15-12-2025,B_93505,biometric
+A_15-12-2025,B_19548,biometric
+A_15-12-2025,B_3881,biometric
+A_15-12-2025,B_62984,biometric
+A_15-12-2025,R_Jharkhand,residence
+A_15-12-2025,B_2984,biometric
+A_15-12-2025,R_Himachal Pradesh,residence
+A_15-12-2025,B_29829,biometric
+A_15-12-2025,B_95479,biometric
+A_15-12-2025,B_2451,biometric
+A_15-12-2025,B_60230,biometric
+A_15-12-2025,R_Pondicherry,residence
+A_15-12-2025,B_20824,biometric
+A_15-12-2025,B_69698,biometric
+A_15-12-2025,B_98234,biometric
+A_15-12-2025,R_Uttarakhand,residence
+A_15-12-2025,B_46943,biometric
+A_15-12-2025,B_37002,biometric
+A_15-12-2025,B_67022,biometric
+A_15-12-2025,B_8682,biometric
+A_15-12-2025,R_Tripura,residence
+A_15-12-2025,B_6689,biometric
+A_15-12-2025,B_29778,biometric
+A_15-12-2025,R_Delhi,residence
+A_15-12-2025,B_18334,biometric
+A_29-10-2025,B_64691,biometric
+A_29-10-2025,B_14593,biometric
+A_29-10-2025,B_44939,biometric
+A_29-10-2025,B_24145,biometric
+A_29-10-2025,B_47997,biometric
+A_29-10-2025,B_78145,biometric
+A_29-10-2025,R_Delhi,residence
+A_29-10-2025,B_26257,biometric
+A_29-10-2025,B_5472,biometric
+A_29-10-2025,B_38225,biometric
+A_29-10-2025,B_1924,biometric
+A_29-10-2025,B_79446,biometric
+A_29-10-2025,R_Jharkhand,residence
+A_29-10-2025,B_4939,biometric
+A_29-10-2025,B_70921,biometric
+A_29-10-2025,B_76671,biometric
+A_29-10-2025,B_83463,biometric
+A_29-10-2025,B_12444,biometric
+A_29-10-2025,R_Himachal Pradesh,residence
+A_29-10-2025,B_78094,biometric
+A_29-10-2025,R_Orissa,residence
+A_29-10-2025,B_15767,biometric
+A_03-09-2025,B_63733,biometric
+A_03-09-2025,B_51987,biometric
+A_03-09-2025,B_77240,biometric
+A_03-09-2025,B_34373,biometric
+A_03-09-2025,B_54762,biometric
+A_03-09-2025,B_75424,biometric
+A_03-09-2025,B_30377,biometric
+A_03-09-2025,R_Uttarakhand,residence
+A_03-09-2025,B_97824,biometric
+A_03-09-2025,B_57503,biometric
+A_03-09-2025,B_31333,biometric
+A_03-09-2025,B_1640,biometric
+A_03-09-2025,B_23834,biometric
+A_03-09-2025,R_Himachal Pradesh,residence
+A_03-09-2025,B_80710,biometric
+A_03-09-2025,B_61707,biometric
+A_03-09-2025,R_Tripura,residence
+A_03-09-2025,B_44192,biometric
+A_03-09-2025,B_98284,biometric
+A_03-09-2025,B_90651,biometric
+A_03-09-2025,B_31037,biometric
+A_03-09-2025,R_Orissa,residence
+A_03-09-2025,B_22955,biometric
+A_03-09-2025,B_5256,biometric
+A_03-09-2025,R_Jharkhand,residence
+A_03-09-2025,B_29623,biometric
+A_14-11-2025,B_3480,biometric
+A_14-11-2025,B_2050,biometric
+A_14-11-2025,B_13403,biometric
+A_14-11-2025,B_26137,biometric
+A_14-11-2025,B_55702,biometric
+A_14-11-2025,B_15219,biometric
+A_14-11-2025,B_62699,biometric
+A_14-11-2025,B_96394,biometric
+A_14-11-2025,B_36233,biometric
+A_14-11-2025,R_Uttarakhand,residence
+A_14-11-2025,B_47685,biometric
+A_14-11-2025,B_27888,biometric
+A_14-11-2025,B_97542,biometric
+A_14-11-2025,B_68929,biometric
+A_26-12-2025,B_14845,biometric
+A_26-12-2025,B_88379,biometric
+A_26-12-2025,B_30310,biometric
+A_26-12-2025,B_21875,biometric
+A_26-12-2025,B_49028,biometric
+A_26-12-2025,B_47598,biometric
+A_26-12-2025,B_13444,biometric
+A_26-12-2025,B_82149,biometric
+A_26-12-2025,B_74401,biometric
+A_26-12-2025,R_Jharkhand,residence
+A_26-12-2025,B_48131,biometric
+A_26-12-2025,B_84175,biometric
+A_26-12-2025,B_96622,biometric
+A_26-12-2025,R_Puducherry,residence
+A_26-12-2025,B_85290,biometric
+A_26-12-2025,B_18100,biometric
+A_26-12-2025,B_15083,biometric
+A_26-12-2025,R_Orissa,residence
+A_26-12-2025,B_82779,biometric
+A_26-12-2025,B_2996,biometric
+A_26-12-2025,R_Uttarakhand,residence
+A_26-12-2025,B_92090,biometric
+A_26-12-2025,R_Mizoram,residence
+A_26-12-2025,B_4650,biometric
+A_26-12-2025,B_75357,biometric
+A_26-12-2025,B_38652,biometric
+A_26-12-2025,R_Tripura,residence
+A_26-12-2025,B_61542,biometric
+A_17-11-2025,B_38858,biometric
+A_17-11-2025,B_84013,biometric
+A_17-11-2025,B_75668,biometric
+A_17-11-2025,B_9897,biometric
+A_17-11-2025,B_22997,biometric
+A_17-11-2025,R_Jharkhand,residence
+A_17-11-2025,B_85427,biometric
+A_17-11-2025,B_40674,biometric
+A_17-11-2025,B_7523,biometric
+A_17-11-2025,B_75346,biometric
+A_17-11-2025,B_76595,biometric
+A_17-11-2025,B_6189,biometric
+A_17-11-2025,B_86747,biometric
+A_17-11-2025,R_Goa,residence
+A_17-11-2025,B_4331,biometric
+A_17-11-2025,B_5233,biometric
+A_17-11-2025,B_72578,biometric
+A_17-11-2025,B_53343,biometric
+A_17-11-2025,B_94069,biometric
+A_17-11-2025,R_Uttarakhand,residence
+A_17-11-2025,B_29386,biometric
+A_17-11-2025,B_70939,biometric
+A_17-11-2025,B_79370,biometric
+A_17-11-2025,B_73694,biometric
+A_17-11-2025,R_Orissa,residence
+A_17-11-2025,B_54517,biometric
+A_17-11-2025,R_Himachal Pradesh,residence
+A_17-11-2025,B_12272,biometric
+R_Delhi,A_22-12-2025,residence
+R_Delhi,A_26-10-2025,residence
+R_Delhi,A_07-11-2025,residence
+R_Delhi,A_09-12-2025,residence
+R_Delhi,A_01-07-2025,residence
+R_Delhi,A_06-11-2025,residence
+R_Delhi,A_08-09-2025,residence
+R_Delhi,A_23-10-2025,residence
+R_Delhi,A_09-11-2025,residence
+R_Delhi,A_14-09-2025,residence
+R_Delhi,A_24-12-2025,residence
+R_Jharkhand,A_08-09-2025,residence
+R_Jharkhand,A_06-11-2025,residence
+R_Jharkhand,A_22-12-2025,residence
+R_Jharkhand,A_13-11-2025,residence
+R_Jharkhand,A_18-12-2025,residence
+R_Jharkhand,A_23-10-2025,residence
+R_Jharkhand,A_05-09-2025,residence
+R_Jharkhand,A_26-10-2025,residence
+R_Jharkhand,A_19-10-2025,residence
+R_Jharkhand,A_09-12-2025,residence
+R_Jharkhand,A_20-12-2025,residence
+R_Jharkhand,A_21-12-2025,residence
+R_Jharkhand,A_07-11-2025,residence
+R_Jharkhand,A_17-09-2025,residence
+R_Jharkhand,A_08-11-2025,residence
+A_31-10-2025,B_50710,biometric
+A_31-10-2025,B_19782,biometric
+A_31-10-2025,B_19569,biometric
+A_31-10-2025,B_86184,biometric
+A_31-10-2025,B_83893,biometric
+A_31-10-2025,B_43211,biometric
+A_31-10-2025,B_15365,biometric
+A_31-10-2025,R_Orissa,residence
+A_31-10-2025,B_51589,biometric
+A_31-10-2025,B_46035,biometric
+A_31-10-2025,B_44167,biometric
+A_31-10-2025,B_99120,biometric
+A_31-10-2025,B_78788,biometric
+A_31-10-2025,B_22557,biometric
+A_31-10-2025,B_13339,biometric
+A_31-10-2025,R_Manipur,residence
+A_31-10-2025,B_55373,biometric
+A_31-10-2025,B_37970,biometric
+A_31-10-2025,R_Dadra and Nagar Haveli and Daman and Diu,residence
+A_31-10-2025,B_63325,biometric
+A_31-10-2025,R_Mizoram,residence
+A_31-10-2025,B_35840,biometric
+A_31-10-2025,R_Himachal Pradesh,residence
+A_31-10-2025,B_93834,biometric
+A_31-10-2025,B_82254,biometric
+A_31-10-2025,B_71816,biometric
+A_31-10-2025,B_75432,biometric
+A_31-10-2025,B_85139,biometric
+A_08-11-2025,B_11431,biometric
+A_08-11-2025,B_50177,biometric
+A_08-11-2025,B_36723,biometric
+A_08-11-2025,B_70108,biometric
+A_08-11-2025,B_10257,biometric
+A_08-11-2025,B_52113,biometric
+A_08-11-2025,B_80343,biometric
+A_08-11-2025,B_42561,biometric
+A_08-11-2025,B_4639,biometric
+A_08-11-2025,R_Orissa,residence
+A_08-11-2025,B_43735,biometric
+A_08-11-2025,B_81721,biometric
+A_08-11-2025,B_42953,biometric
+A_08-11-2025,B_51157,biometric
+A_08-11-2025,B_75965,biometric
+A_08-11-2025,R_Manipur,residence
+A_08-11-2025,B_44094,biometric
+A_08-11-2025,B_74112,biometric
+A_08-11-2025,B_75542,biometric
+A_08-11-2025,B_86450,biometric
+A_08-11-2025,R_Himachal Pradesh,residence
+A_08-11-2025,B_1490,biometric
+A_08-11-2025,R_Mizoram,residence
+A_08-11-2025,B_20452,biometric
+A_08-11-2025,B_74645,biometric
+R_Orissa,A_05-11-2025,residence
+R_Orissa,A_17-10-2025,residence
+R_Orissa,A_08-09-2025,residence
+R_Orissa,A_19-10-2025,residence
+R_Orissa,A_06-11-2025,residence
+R_Orissa,A_09-11-2025,residence
+R_Orissa,A_29-12-2025,residence
+R_Orissa,A_13-10-2025,residence
+A_13-11-2025,B_88401,biometric
+A_13-11-2025,B_12848,biometric
+A_13-11-2025,B_50950,biometric
+A_13-11-2025,B_65923,biometric
+A_13-11-2025,R_Himachal Pradesh,residence
+A_13-11-2025,B_5675,biometric
+A_13-11-2025,B_38830,biometric
+A_13-11-2025,B_78830,biometric
+A_13-11-2025,B_83600,biometric
+A_13-11-2025,R_Tripura,residence
+A_13-11-2025,B_30843,biometric
+A_13-11-2025,B_69351,biometric
+A_13-11-2025,B_71325,biometric
+A_13-11-2025,B_74080,biometric
+A_13-11-2025,B_45544,biometric
+A_13-11-2025,B_78297,biometric
+A_13-11-2025,B_53254,biometric
+A_13-11-2025,B_74941,biometric
+A_13-11-2025,B_91176,biometric
+A_13-11-2025,B_43702,biometric
+A_17-09-2025,B_5675,biometric
+A_17-09-2025,B_49196,biometric
+A_17-09-2025,B_57265,biometric
+A_17-09-2025,B_59081,biometric
+A_17-09-2025,B_15013,biometric
+A_17-09-2025,B_10996,biometric
+A_17-09-2025,B_42739,biometric
+A_17-09-2025,B_17788,biometric
+A_17-09-2025,B_48329,biometric
+A_17-09-2025,B_13174,biometric
+A_17-09-2025,B_47782,biometric
+A_17-09-2025,B_55287,biometric
+A_17-09-2025,B_79866,biometric
+A_17-09-2025,B_12218,biometric
+A_17-09-2025,R_Uttarakhand,residence
+A_17-09-2025,B_3823,biometric
+A_17-09-2025,B_81892,biometric
+A_17-09-2025,R_Himachal Pradesh,residence
+A_17-09-2025,B_89065,biometric
+A_05-11-2025,B_72322,biometric
+A_05-11-2025,B_62421,biometric
+A_05-11-2025,B_94543,biometric
+A_05-11-2025,B_38634,biometric
+A_05-11-2025,B_49844,biometric
+A_05-11-2025,B_86165,biometric
+A_05-11-2025,B_47722,biometric
+A_05-11-2025,B_44020,biometric
+A_05-11-2025,R_Sikkim,residence
+A_05-11-2025,B_77936,biometric
+A_05-11-2025,B_74541,biometric
+A_05-11-2025,R_andhra pradesh,residence
+A_05-11-2025,B_85398,biometric
+A_05-11-2025,B_523,biometric
+A_05-11-2025,B_84991,biometric
+A_05-11-2025,B_75875,biometric
+A_05-11-2025,B_54645,biometric
+A_05-11-2025,B_39291,biometric
+A_05-11-2025,B_28723,biometric
+A_05-11-2025,B_78249,biometric
+A_05-11-2025,B_53861,biometric
+A_21-12-2025,B_7801,biometric
+A_21-12-2025,B_94347,biometric
+A_21-12-2025,B_98551,biometric
+A_21-12-2025,B_75946,biometric
+A_21-12-2025,B_76873,biometric
+A_21-12-2025,R_Uttarakhand,residence
+A_21-12-2025,B_90636,biometric
+A_21-12-2025,B_67881,biometric
+A_21-12-2025,B_79648,biometric
+A_21-12-2025,B_577,biometric
+A_21-12-2025,B_38580,biometric
+A_21-12-2025,B_94489,biometric
+A_21-12-2025,R_Tripura,residence
+A_21-12-2025,B_87443,biometric
+A_21-12-2025,B_34595,biometric
+A_21-12-2025,B_72268,biometric
+A_21-12-2025,B_18341,biometric
+A_21-12-2025,B_21697,biometric
+A_21-12-2025,B_53807,biometric
+A_21-12-2025,R_Manipur,residence
+A_21-12-2025,B_98282,biometric
+A_21-12-2025,R_Nagaland,residence
+A_21-12-2025,B_65745,biometric
+A_04-11-2025,B_20503,biometric
+A_04-11-2025,B_59607,biometric
+A_04-11-2025,B_59313,biometric
+A_04-11-2025,B_12114,biometric
+A_04-11-2025,B_2763,biometric
+A_04-11-2025,B_14889,biometric
+A_04-11-2025,B_70029,biometric
+A_04-11-2025,B_19458,biometric
+A_04-11-2025,B_62865,biometric
+A_04-11-2025,B_31071,biometric
+A_04-11-2025,R_Himachal Pradesh,residence
+A_04-11-2025,B_52140,biometric
+A_04-11-2025,B_93211,biometric
+A_04-11-2025,B_99527,biometric
+A_04-11-2025,R_Tripura,residence
+A_04-11-2025,B_72447,biometric
+A_04-11-2025,B_46854,biometric
+A_04-11-2025,B_66321,biometric
+A_04-11-2025,B_62081,biometric
+A_04-11-2025,B_35800,biometric
+A_04-11-2025,B_17790,biometric
+A_09-12-2025,B_75315,biometric
+A_09-12-2025,B_75345,biometric
+A_09-12-2025,B_65383,biometric
+A_09-12-2025,B_13931,biometric
+A_09-12-2025,B_54661,biometric
+A_09-12-2025,B_82814,biometric
+A_09-12-2025,B_5866,biometric
+A_09-12-2025,B_16739,biometric
+A_09-12-2025,B_18765,biometric
+A_09-12-2025,R_Uttarakhand,residence
+A_09-12-2025,B_8824,biometric
+A_09-12-2025,B_3910,biometric
+A_09-12-2025,B_87465,biometric
+A_09-12-2025,B_43328,biometric
+A_09-12-2025,R_Himachal Pradesh,residence
+A_09-12-2025,B_25938,biometric
+A_09-12-2025,B_15345,biometric
+A_09-12-2025,B_63567,biometric
+A_09-12-2025,B_74101,biometric
+A_09-12-2025,B_51886,biometric
+A_09-12-2025,R_Puducherry,residence
+A_09-12-2025,B_84376,biometric
+A_09-12-2025,R_Manipur,residence
+A_09-12-2025,B_76731,biometric
+A_09-12-2025,R_Mizoram,residence
+A_09-12-2025,B_3736,biometric
+A_09-12-2025,B_46230,biometric
+A_09-12-2025,B_60288,biometric
+A_09-12-2025,B_53316,biometric
+A_09-12-2025,R_Tripura,residence
+A_09-12-2025,B_62456,biometric
+A_09-12-2025,B_15997,biometric
+A_09-12-2025,B_53035,biometric
+A_08-09-2025,B_44266,biometric
+A_08-09-2025,B_45680,biometric
+A_08-09-2025,B_47000,biometric
+A_08-09-2025,B_78449,biometric
+A_08-09-2025,B_36201,biometric
+A_08-09-2025,B_45936,biometric
+A_08-09-2025,B_79698,biometric
+A_08-09-2025,B_44980,biometric
+A_08-09-2025,B_99073,biometric
+A_08-09-2025,R_Chandigarh,residence
+A_08-09-2025,B_7958,biometric
+A_08-09-2025,B_49644,biometric
+A_08-09-2025,B_13596,biometric
+A_08-09-2025,B_10686,biometric
+A_08-09-2025,R_Ladakh,residence
+A_08-09-2025,B_83237,biometric
+A_08-09-2025,B_4346,biometric
+A_08-09-2025,B_889,biometric
+A_08-09-2025,B_75674,biometric
+A_08-09-2025,R_Tripura,residence
+A_08-09-2025,B_24704,biometric
+A_08-09-2025,B_14770,biometric
+A_08-09-2025,R_Uttarakhand,residence
+A_08-09-2025,B_89639,biometric
+A_08-09-2025,R_Himachal Pradesh,residence
+A_08-09-2025,B_72525,biometric
+A_08-09-2025,B_24362,biometric
+A_08-09-2025,B_83250,biometric
+A_08-09-2025,R_Manipur,residence
+A_08-09-2025,B_41187,biometric
+A_17-10-2025,R_Mizoram,residence
+A_17-10-2025,B_80727,biometric
+A_17-10-2025,B_64456,biometric
+A_17-10-2025,B_20545,biometric
+A_17-10-2025,B_39006,biometric
+A_17-10-2025,B_43023,biometric
+A_17-10-2025,B_37367,biometric
+A_17-10-2025,R_Himachal Pradesh,residence
+A_17-10-2025,B_51053,biometric
+A_17-10-2025,B_98324,biometric
+A_17-10-2025,B_14729,biometric
+A_17-10-2025,B_6702,biometric
+A_17-10-2025,R_Uttarakhand,residence
+A_17-10-2025,B_68167,biometric
+A_17-10-2025,R_Tripura,residence
+A_17-10-2025,B_85465,biometric
+A_17-10-2025,B_54233,biometric
+A_17-10-2025,R_Goa,residence
+A_17-10-2025,B_70759,biometric
+A_17-10-2025,B_90922,biometric
+A_17-10-2025,B_92124,biometric
+A_17-10-2025,B_58226,biometric
+A_17-10-2025,B_21590,biometric
+A_17-10-2025,B_16703,biometric
+A_17-10-2025,B_67408,biometric
+A_17-10-2025,B_94177,biometric
+A_17-10-2025,B_45798,biometric
+A_17-10-2025,B_23675,biometric
+A_17-10-2025,R_Manipur,residence
+A_17-10-2025,B_32132,biometric
+A_17-10-2025,R_Chandigarh,residence
+A_17-10-2025,B_70339,biometric
+A_17-10-2025,R_Nagaland,residence
+A_17-10-2025,B_95196,biometric
+R_Mizoram,A_07-11-2025,residence
+A_20-12-2025,B_51766,biometric
+A_20-12-2025,B_75203,biometric
+A_20-12-2025,R_Andaman and Nicobar Islands,residence
+A_20-12-2025,B_24221,biometric
+A_20-12-2025,B_54803,biometric
+A_20-12-2025,B_37281,biometric
+A_20-12-2025,B_15077,biometric
+A_20-12-2025,B_39307,biometric
+A_20-12-2025,B_66923,biometric
+A_20-12-2025,B_90053,biometric
+A_20-12-2025,B_72428,biometric
+A_20-12-2025,R_Uttarakhand,residence
+A_20-12-2025,B_29366,biometric
+A_20-12-2025,B_6611,biometric
+A_20-12-2025,B_55759,biometric
+A_20-12-2025,B_5197,biometric
+A_20-12-2025,B_49950,biometric
+A_20-12-2025,B_22786,biometric
+A_20-12-2025,R_Nagaland,residence
+A_20-12-2025,B_24601,biometric
+A_20-12-2025,B_3356,biometric
+A_20-12-2025,B_73858,biometric
+A_20-12-2025,R_Himachal Pradesh,residence
+A_20-12-2025,B_46480,biometric
+A_20-12-2025,B_67627,biometric
+A_19-10-2025,B_29989,biometric
+A_19-10-2025,B_16392,biometric
+A_19-10-2025,B_95730,biometric
+A_19-10-2025,B_16535,biometric
+A_19-10-2025,R_Himachal Pradesh,residence
+A_19-10-2025,B_21678,biometric
+A_19-10-2025,B_24827,biometric
+A_19-10-2025,B_72301,biometric
+A_19-10-2025,B_94833,biometric
+A_19-10-2025,B_28851,biometric
+A_19-10-2025,B_90069,biometric
+A_19-10-2025,B_49920,biometric
+A_19-10-2025,B_63923,biometric
+A_19-10-2025,B_62749,biometric
+A_19-10-2025,R_Manipur,residence
+A_19-10-2025,B_92034,biometric
+A_19-10-2025,B_31619,biometric
+A_19-10-2025,B_66262,biometric
+A_29-12-2025,B_24044,biometric
+A_29-12-2025,B_64792,biometric
+A_29-12-2025,B_83362,biometric
+A_29-12-2025,B_53609,biometric
+A_29-12-2025,B_35071,biometric
+A_29-12-2025,B_4143,biometric
+A_29-12-2025,B_69951,biometric
+A_29-12-2025,B_5573,biometric
+A_29-12-2025,B_23088,biometric
+A_29-12-2025,B_83481,biometric
+A_29-12-2025,B_6918,biometric
+A_29-12-2025,B_98487,biometric
+A_29-12-2025,B_68996,biometric
+A_29-12-2025,B_71022,biometric
+A_29-12-2025,B_15666,biometric
+A_22-12-2025,B_63185,biometric
+A_22-12-2025,B_57779,biometric
+A_22-12-2025,B_29899,biometric
+A_22-12-2025,B_5608,biometric
+A_22-12-2025,R_Manipur,residence
+A_22-12-2025,B_34850,biometric
+A_22-12-2025,B_71233,biometric
+A_22-12-2025,B_99185,biometric
+A_22-12-2025,B_30101,biometric
+A_22-12-2025,B_75148,biometric
+A_22-12-2025,B_76964,biometric
+A_22-12-2025,B_36288,biometric
+A_22-12-2025,B_40305,biometric
+A_22-12-2025,B_34649,biometric
+A_22-12-2025,B_43080,biometric
+A_22-12-2025,B_60944,biometric
+A_22-12-2025,B_61983,biometric
+A_22-12-2025,R_Himachal Pradesh,residence
+A_22-12-2025,B_53771,biometric
+A_22-12-2025,B_39378,biometric
+A_22-12-2025,R_Tripura,residence
+A_22-12-2025,B_82747,biometric
+A_22-12-2025,B_26393,biometric
+A_22-12-2025,B_28579,biometric
+A_22-12-2025,B_37404,biometric
+A_22-12-2025,R_Sikkim,residence
+A_22-12-2025,B_69038,biometric
+R_Himachal Pradesh,A_24-12-2025,residence
+R_Himachal Pradesh,A_07-11-2025,residence
+R_Himachal Pradesh,A_26-10-2025,residence
+R_Himachal Pradesh,A_06-11-2025,residence
+R_Himachal Pradesh,A_29-11-2025,residence
+A_05-09-2025,B_90875,biometric
+A_05-09-2025,B_89445,biometric
+A_05-09-2025,B_62237,biometric
+A_05-09-2025,B_71597,biometric
+A_05-09-2025,B_40016,biometric
+A_05-09-2025,B_66847,biometric
+A_05-09-2025,B_45288,biometric
+A_05-09-2025,R_Uttarakhand,residence
+A_05-09-2025,B_22888,biometric
+A_05-09-2025,B_61281,biometric
+A_05-09-2025,B_61149,biometric
+A_05-09-2025,R_Manipur,residence
+A_05-09-2025,B_66030,biometric
+A_05-09-2025,B_73401,biometric
+A_05-09-2025,B_91802,biometric
+A_05-09-2025,R_Goa,residence
+A_05-09-2025,B_4989,biometric
+A_05-09-2025,B_88100,biometric
+A_05-09-2025,B_133,biometric
+A_05-09-2025,B_40053,biometric
+A_05-09-2025,B_74352,biometric
+A_05-09-2025,B_86089,biometric
+A_05-09-2025,B_30803,biometric
+A_06-11-2025,B_69418,biometric
+A_06-11-2025,B_92906,biometric
+A_06-11-2025,B_30191,biometric
+A_06-11-2025,B_70830,biometric
+A_06-11-2025,B_14171,biometric
+A_06-11-2025,B_88304,biometric
+A_06-11-2025,B_93960,biometric
+A_06-11-2025,B_47859,biometric
+A_06-11-2025,B_91950,biometric
+A_06-11-2025,B_66626,biometric
+A_06-11-2025,B_85529,biometric
+A_06-11-2025,B_86874,biometric
+A_06-11-2025,B_24193,biometric
+A_06-11-2025,B_97296,biometric
+A_06-11-2025,R_Andaman & Nicobar Islands,residence
+A_06-11-2025,B_48969,biometric
+A_06-11-2025,R_Manipur,residence
+A_06-11-2025,B_88157,biometric
+A_06-11-2025,B_57376,biometric
+A_06-11-2025,B_5560,biometric
+A_06-11-2025,B_66089,biometric
+A_06-11-2025,B_14252,biometric
+A_06-11-2025,R_Lakshadweep,residence
+A_06-11-2025,B_76673,biometric
+A_06-11-2025,B_56497,biometric
+A_06-11-2025,B_36400,biometric
+A_06-11-2025,R_Uttarakhand,residence
+A_06-11-2025,B_25459,biometric
+A_06-11-2025,B_23077,biometric
+A_07-11-2025,B_99142,biometric
+A_07-11-2025,B_76012,biometric
+A_07-11-2025,B_62558,biometric
+A_07-11-2025,B_86768,biometric
+A_07-11-2025,B_2478,biometric
+A_07-11-2025,B_8989,biometric
+A_07-11-2025,B_69782,biometric
+A_07-11-2025,B_94413,biometric
+A_07-11-2025,B_42677,biometric
+A_07-11-2025,B_87724,biometric
+A_07-11-2025,R_Goa,residence
+A_07-11-2025,B_59203,biometric
+A_07-11-2025,B_62609,biometric
+A_07-11-2025,B_28259,biometric
+A_07-11-2025,B_71808,biometric
+A_07-11-2025,B_85554,biometric
+A_07-11-2025,B_66114,biometric
+A_07-11-2025,B_35231,biometric
+A_07-11-2025,R_Sikkim,residence
+A_07-11-2025,B_92072,biometric
+A_07-11-2025,R_Arunachal Pradesh,residence
+A_07-11-2025,B_96188,biometric
+A_07-11-2025,B_35764,biometric
+A_07-11-2025,B_92283,biometric
+A_07-11-2025,B_27450,biometric
+A_07-11-2025,B_36661,biometric
+A_07-11-2025,R_Tripura,residence
+A_07-11-2025,B_73909,biometric
+A_07-11-2025,B_41582,biometric
+A_07-11-2025,R_Uttarakhand,residence
+A_07-11-2025,B_20277,biometric
+A_23-10-2025,B_13855,biometric
+A_23-10-2025,B_24261,biometric
+A_23-10-2025,R_Goa,residence
+A_23-10-2025,B_86119,biometric
+A_23-10-2025,B_82927,biometric
+A_23-10-2025,B_22308,biometric
+A_23-10-2025,B_11080,biometric
+A_23-10-2025,B_66399,biometric
+A_23-10-2025,B_92177,biometric
+A_23-10-2025,B_20492,biometric
+A_23-10-2025,B_46976,biometric
+A_23-10-2025,B_79672,biometric
+A_23-10-2025,B_91848,biometric
+A_23-10-2025,B_17872,biometric
+A_23-10-2025,B_78035,biometric
+A_13-10-2025,B_35474,biometric
+A_13-10-2025,B_79565,biometric
+A_13-10-2025,B_81381,biometric
+A_13-10-2025,B_27975,biometric
+A_13-10-2025,B_57566,biometric
+A_13-10-2025,B_94792,biometric
+A_13-10-2025,B_92713,biometric
+A_13-10-2025,B_56128,biometric
+A_13-10-2025,B_53362,biometric
+A_13-10-2025,B_34961,biometric
+A_13-10-2025,B_27096,biometric
+A_01-04-2025,B_89780,biometric
+A_01-04-2025,B_89650,biometric
+A_01-04-2025,B_51998,biometric
+A_01-04-2025,B_65843,biometric
+A_01-04-2025,B_82552,biometric
+A_01-04-2025,B_70432,biometric
+A_01-04-2025,B_49167,biometric
+A_01-04-2025,B_70877,biometric
+A_07-09-2025,B_15544,biometric
+A_07-09-2025,B_36206,biometric
+A_07-09-2025,B_38981,biometric
+A_07-09-2025,B_13728,biometric
+A_07-09-2025,B_59635,biometric
+A_07-09-2025,B_29611,biometric
+A_07-09-2025,B_60591,biometric
+A_07-09-2025,B_98941,biometric
+A_07-09-2025,B_21546,biometric
+A_07-09-2025,R_Uttarakhand,residence
+A_07-09-2025,B_74984,biometric
+A_07-09-2025,B_89691,biometric
+R_Uttarakhand,A_18-12-2025,residence
+R_Uttarakhand,A_26-10-2025,residence
+R_Uttarakhand,A_18-10-2025,residence
+R_Ladakh,A_26-10-2025,residence
+A_26-10-2025,B_56727,biometric
+A_26-10-2025,B_40683,biometric
+A_26-10-2025,B_7298,biometric
+A_26-10-2025,B_58157,biometric
+A_26-10-2025,B_4315,biometric
+A_26-10-2025,B_78006,biometric
+A_26-10-2025,B_63521,biometric
+A_26-10-2025,B_35942,biometric
+A_26-10-2025,B_32851,biometric
+A_26-10-2025,B_99565,biometric
+A_26-10-2025,B_35707,biometric
+A_26-10-2025,B_28563,biometric
+A_26-10-2025,B_93867,biometric
+A_26-10-2025,B_91278,biometric
+A_26-10-2025,B_98245,biometric
+A_26-10-2025,B_55606,biometric
+A_26-10-2025,B_84105,biometric
+A_26-10-2025,B_7070,biometric
+A_26-10-2025,B_94817,biometric
+A_26-10-2025,B_55382,biometric
+A_24-12-2025,B_79485,biometric
+A_24-12-2025,B_22907,biometric
+A_24-12-2025,B_67365,biometric
+A_24-12-2025,B_95529,biometric
+A_24-12-2025,B_65513,biometric
+A_24-12-2025,B_55065,biometric
+A_24-12-2025,B_74744,biometric
+A_18-12-2025,B_66906,biometric
+A_18-12-2025,B_91075,biometric
+A_18-12-2025,B_80669,biometric
+A_18-12-2025,B_65291,biometric
+A_18-12-2025,B_63195,biometric
+A_18-12-2025,B_72377,biometric
+A_18-12-2025,B_53678,biometric
+A_18-12-2025,B_99585,biometric
+A_18-12-2025,B_56965,biometric
+A_18-12-2025,B_89661,biometric
+A_18-12-2025,B_55494,biometric
+A_18-12-2025,B_81596,biometric
+A_18-12-2025,R_Goa,residence
+A_18-12-2025,B_98683,biometric
+A_18-12-2025,B_28645,biometric
+A_18-12-2025,B_75733,biometric
+A_18-12-2025,B_77894,biometric
+A_18-12-2025,B_40267,biometric
+A_18-12-2025,B_58991,biometric
+A_18-12-2025,B_49741,biometric
+A_18-12-2025,B_541,biometric
+A_29-11-2025,B_42243,biometric
+A_29-11-2025,B_61620,biometric
+A_29-11-2025,B_54363,biometric
+A_29-11-2025,B_95970,biometric
+A_14-09-2025,B_49058,biometric
+A_14-09-2025,B_54714,biometric
+A_14-09-2025,B_85289,biometric
+A_14-09-2025,B_31584,biometric
+A_14-09-2025,B_87105,biometric
+A_14-09-2025,B_49985,biometric
+A_14-09-2025,B_31196,biometric
+A_14-09-2025,B_15053,biometric
+A_14-09-2025,B_47628,biometric
+A_14-09-2025,B_18130,biometric
+A_14-09-2025,B_41950,biometric
+A_14-09-2025,B_72620,biometric
+A_14-09-2025,B_82179,biometric
+A_14-09-2025,B_26843,biometric
+A_09-11-2025,B_28846,biometric
+A_09-11-2025,B_99281,biometric
+A_09-11-2025,B_60400,biometric
+A_09-11-2025,B_55784,biometric
+A_09-11-2025,B_91808,biometric
+A_09-11-2025,B_239,biometric
+A_09-11-2025,B_90335,biometric
+A_09-11-2025,B_17682,biometric
+A_09-11-2025,B_29730,biometric
+A_09-11-2025,B_29802,biometric
+A_09-11-2025,B_57441,biometric
+A_09-11-2025,B_63655,biometric
+A_09-11-2025,B_97307,biometric
+A_09-11-2025,B_17061,biometric
+A_09-11-2025,B_40496,biometric
+A_09-11-2025,B_30904,biometric
+A_09-11-2025,B_94583,biometric
+R_Chandigarh,A_01-07-2025,residence
+A_01-07-2025,B_371,biometric
+A_01-07-2025,B_80619,biometric
+A_01-07-2025,B_75878,biometric
+A_01-07-2025,B_72810,biometric
+A_01-07-2025,B_82161,biometric
+A_01-07-2025,B_97351,biometric
+A_01-07-2025,B_67134,biometric
+A_01-05-2025,B_42368,biometric
+A_01-05-2025,B_64093,biometric
+A_01-05-2025,B_90559,biometric
+A_01-05-2025,B_94763,biometric
+A_01-05-2025,B_98277,biometric
+A_01-05-2025,B_70184,biometric
+A_18-10-2025,B_5600,biometric
+A_18-10-2025,B_70502,biometric
+A_18-10-2025,B_9853,biometric
+A_18-10-2025,B_66791,biometric
